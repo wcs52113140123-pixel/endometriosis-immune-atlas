@@ -1,0 +1,42 @@
+# ---- large data & checkpoints (regenerate via scripts/00_download_data.py) ----
+data/raw/
+checkpoints/
+*.h5ad
+*.rds
+*.tar
+*.RAW.tar
+
+# ---- large / non-redistributable intermediates ----
+data/interim/*.gtf.gz
+data/interim/*.npy
+
+# ---- copyrighted reference PDFs: keep locally, do NOT upload ----
+data/reference_pdfs/
+
+# ---- python ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+submission/letpub_template.dotx
+
+# ---- large regenerable binary intermediates (rebuild via scripts/) ----
+data/interim/*.pkl
+data/interim/*.parquet
+# duplicate of results/tables/liana_endo_GSE179640.csv
+data/interim/liana_endo_GSE179640.csv
+
+# ---- cached PubMed MEDLINE records ----
+# Kept locally only. These caches carry author contact addresses taken from
+# PubMed records, which are not ours to redistribute, and nothing in the
+# analysis depends on them: they backed the journal-scope and figure-convention
+# audits and are re-fetchable with the E-utilities queries recorded in docs/.
+data/interim/*_med.txt
+
+# ---- proprietary fonts ----
+# Arial is a Microsoft font and is not redistributable. The figure scripts
+# register it from assets/fonts/ if present and fall back to the matplotlib
+# default otherwise; supply your own copy to reproduce the exact typography.
+assets/fonts/*.TTF
+assets/fonts/*.ttf
+backups/

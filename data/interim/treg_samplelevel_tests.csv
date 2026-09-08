@@ -1,0 +1,4 @@
+dataset,n_ctrl,n_endo,ctrl_mean,endo_mean,ctrl_med,endo_med,p_onesided
+GSE179640,3,28,1.58,2.73,1.5,1.88,0.202
+GSE213216,4,36,0.65,0.71,0.66,0.48,0.632
+GSE214411,4,6,2.06,2.89,2.49,2.28,0.457

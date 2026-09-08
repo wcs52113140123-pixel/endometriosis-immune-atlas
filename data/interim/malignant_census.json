@@ -1,0 +1,771 @@
+{
+ "occc_sc": {
+  "count": 3,
+  "hits": [
+   {
+    "acc": "GSE123426",
+    "n": 12,
+    "t": "RNA-Seq expression profiling of clonal populations from the OCI-C5x patient-derived ovaria"
+   },
+   {
+    "acc": "GSE224333",
+    "n": 3,
+    "t": "Gene expression profile at single cell level of in vitro monoculture and co-culture cells "
+   },
+   {
+    "acc": "GSE224334",
+    "n": 10,
+    "t": "Gene expression profile at single cell level of ovarian clear cell carcinoma (OCCC) [snRNA"
+   }
+  ]
+ },
+ "enoc_sc": {
+  "count": 0,
+  "hits": []
+ },
+ "endometrioma_sc": {
+  "count": 16,
+  "hits": [
+   {
+    "acc": "GSE11663",
+    "n": 290,
+    "t": "Human cleavage stage embryos are chromosomally unstable"
+   },
+   {
+    "acc": "GSE174399",
+    "n": 30,
+    "t": "Landscape of single-cell transcriptomics of human placent in pathophysiological pregnancie"
+   },
+   {
+    "acc": "GSE179640",
+    "n": 59,
+    "t": "Single cell analysis of endometriosis reveals a coordinated transcriptional program drivin"
+   },
+   {
+    "acc": "GSE184880",
+    "n": 12,
+    "t": "Single-cell RNA sequencing reveals tissue architecture during human high-grade serous ovar"
+   },
+   {
+    "acc": "GSE203191",
+    "n": 11,
+    "t": "Single cell analysis of menstrual endometrial tissues defines phenotypes associated with e"
+   },
+   {
+    "acc": "GSE213216",
+    "n": 51,
+    "t": "A single-cell transcriptomic analysis of endometriosis"
+   },
+   {
+    "acc": "GSE214411",
+    "n": 13,
+    "t": "Single-cell Transcriptomics of Endometrial Cells from Patients with Minimal/mild Endometri"
+   },
+   {
+    "acc": "GSE218044",
+    "n": 4,
+    "t": "SFRP4+IGFBP5hi NKT cells induced neural-like cells differentiation to contribute to adenom"
+   },
+   {
+    "acc": "GSE247695",
+    "n": 8,
+    "t": "Endometriotic lesions exert distinct metabolic activity compared to paired eutopic endomet"
+   },
+   {
+    "acc": "GSE262645",
+    "n": 6,
+    "t": "mregDCs induce abnormal T cell functions in endometriosis"
+   },
+   {
+    "acc": "GSE266265",
+    "n": 60,
+    "t": "Endometrial Insights: Unmasking Endometriosis through Single-Cell Profiling and AI-Based P"
+   },
+   {
+    "acc": "GSE276193",
+    "n": 18,
+    "t": "Integrative Single-Cell Analysis Reveals Iron Overload-Induced Senescence and Metabolic Re"
+   },
+   {
+    "acc": "GSE287278",
+    "n": 8,
+    "t": "A spatial transcriptomics dataset of the endometrium from repeated implantation failure pa"
+   },
+   {
+    "acc": "GSE294255",
+    "n": 8,
+    "t": "ALDH1A1+ cells are endometrial progenitors contributing to regeneration and endometriosis "
+   },
+   {
+    "acc": "GSE302113",
+    "n": 38,
+    "t": "Clonal lineage tracing of innate immune cells in human cancer"
+   },
+   {
+    "acc": "GSE342486",
+    "n": 5,
+    "t": "Wenshen Xiaozheng Tang ameliorates endometriosis by interrupting the lactate/H3K9la-mediat"
+   }
+  ]
+ },
+ "atypical": {
+  "count": 50,
+  "hits": [
+   {
+    "acc": "GSE109085",
+    "n": 843,
+    "t": "Epigenetic evolution and lineage histories of chronic lymphocytic leukemia"
+   },
+   {
+    "acc": "GSE110221",
+    "n": 54,
+    "t": "Single-cell genetic analysis of clonal dynamics in colorectal adenomas indicates CDX2 gain"
+   },
+   {
+    "acc": "GSE130142",
+    "n": 2,
+    "t": "Epigenetic regulator genes direct the fate of multipotent precursor cell of origin in line"
+   },
+   {
+    "acc": "GSE132396",
+    "n": 10,
+    "t": "Epigenetic regulator genes direct the fate of multipotent precursor cell of origin in line"
+   },
+   {
+    "acc": "GSE132605",
+    "n": 16,
+    "t": "Analyzing the Effect of the K27M Mutation in Histone H3.3 on Chromatin Regulation in Pluri"
+   },
+   {
+    "acc": "GSE133153",
+    "n": 14,
+    "t": "Analyzing the Effect of the K27M Mutation in Histone H3.3 on Gene Expression in Pluripoten"
+   },
+   {
+    "acc": "GSE139324",
+    "n": 63,
+    "t": "Immune landscape of viral- and carcinogen-drived head and neck cancer"
+   },
+   {
+    "acc": "GSE144983",
+    "n": 10,
+    "t": "Male-specific lymphomagenesis by serial inverse dysregulation of the RNA helicases DDX3X a"
+   },
+   {
+    "acc": "GSE161920",
+    "n": 19,
+    "t": "Smarca4 inactivation promotes lineage-specific transformation and early metastatic feature"
+   },
+   {
+    "acc": "GSE163371",
+    "n": 4,
+    "t": "Genomic instability is an early event driving chromatin organization and \u201cescape\u201d from onc"
+   },
+   {
+    "acc": "GSE165266",
+    "n": 1,
+    "t": "Kidney organoids are capable of forming Wilms-like tumors, but not teratomas"
+   },
+   {
+    "acc": "GSE166711",
+    "n": 30,
+    "t": "FlowCT for the analysis of large immunophenotypic datasets and biomarker discovery in canc"
+   },
+   {
+    "acc": "GSE167786",
+    "n": 62,
+    "t": "BTG1 mutation yields super-competitive B cells primed for malignant transformation"
+   },
+   {
+    "acc": "GSE180298",
+    "n": 12,
+    "t": "Uncovering perturbations in human hematopoiesis associated with healthy aging and myeloid "
+   },
+   {
+    "acc": "GSE184944",
+    "n": 49,
+    "t": "Immune gene expression analysis for oral leukplakia samples"
+   },
+   {
+    "acc": "GSE185157",
+    "n": 10,
+    "t": "Pre-neoplastic somatic mutations including MYD88L265P in lymphoplasmacytic lymphoma [scRNA"
+   },
+   {
+    "acc": "GSE196296",
+    "n": 3,
+    "t": "Single-cell Transcriptomics Dissects Premalignant Progression in Proliferative Verrucous L"
+   },
+   {
+    "acc": "GSE201336",
+    "n": 89,
+    "t": "Single-cell analyses define a continuum of cell state and composition changes in the malig"
+   },
+   {
+    "acc": "GSE201348",
+    "n": 72,
+    "t": "Single-cell analyses define a continuum of cell state and composition changes in the malig"
+   },
+   {
+    "acc": "GSE201349",
+    "n": 161,
+    "t": "Single-cell analyses define a continuum of cell state and composition changes in the malig"
+   },
+   {
+    "acc": "GSE201536",
+    "n": 894,
+    "t": "RAS-induced transformation of mammary epithelial cells relies on ZEB1-dependent cellular r"
+   },
+   {
+    "acc": "GSE203663",
+    "n": 20,
+    "t": "Single-Cell Transcriptome Analysis Identifies Key Components of Tumor Microenvironment for"
+   },
+   {
+    "acc": "GSE208536",
+    "n": 48,
+    "t": "Digital spatial profiling of pancreatic ductal adenocarcinoma, acinar ductal metaplasia an"
+   },
+   {
+    "acc": "GSE218493",
+    "n": 2,
+    "t": "Distinct transcriptional profiles in the different phenotypes of neurofibroma from the sam"
+   },
+   {
+    "acc": "GSE227690",
+    "n": 111,
+    "t": "Ultraviolet radiation shapes dendritic cell leukaemia transformation in the skin"
+   },
+   {
+    "acc": "GSE228934",
+    "n": 13,
+    "t": "IKK\u03b2 Inhibition Attenuates Epithelial Mesenchymal Transition of Human Stem Cell-Derived Re"
+   },
+   {
+    "acc": "GSE229752",
+    "n": 80,
+    "t": "Identification of spatially-resolved markers of malignant transformation in Intraductal Pa"
+   },
+   {
+    "acc": "GSE229877",
+    "n": 4,
+    "t": "Identification of spatially-resolved markers of malignant transformation in Intraductal Pa"
+   },
+   {
+    "acc": "GSE237148",
+    "n": 26,
+    "t": "Targeting IL-1b\u2013mediated inflammatory signaling overcomes transfusion dependence in early-"
+   },
+   {
+    "acc": "GSE239561",
+    "n": 35,
+    "t": "Spatial gene expression profiling unveils immuno-oncogenic programs of NF1-associated peri"
+   },
+   {
+    "acc": "GSE244559",
+    "n": 191,
+    "t": "Differential effects of aneuploidy on growth and differentiation in human intestinal stem "
+   },
+   {
+    "acc": "GSE253429",
+    "n": 21,
+    "t": "Cellular states associated with metastatic organotropism and survival in patients with pan"
+   },
+   {
+    "acc": "GSE253430",
+    "n": 17,
+    "t": "Cellular states associated with metastatic organotropism and survival in patients with pan"
+   },
+   {
+    "acc": "GSE260633",
+    "n": 3,
+    "t": "An engineered tumor organoid model reveals cellular identity and signaling trajectories un"
+   },
+   {
+    "acc": "GSE273937",
+    "n": 7,
+    "t": "Unraveling Heterogeneity in Tumor Evolution Induced by Diverse Radiation Modes: Insights f"
+   },
+   {
+    "acc": "GSE287979",
+    "n": 2,
+    "t": "Systematic inference of super-resolution cell spatial profiles from histology images"
+   },
+   {
+    "acc": "GSE288020",
+    "n": 23,
+    "t": "Immune-aging is linked to clinical malignancy and vaccine responses in myeloma"
+   },
+   {
+    "acc": "GSE290451",
+    "n": 738,
+    "t": "Aged and BRCA mutated stromal cells drive epithelial cell transformation"
+   },
+   {
+    "acc": "GSE291389",
+    "n": 3,
+    "t": "An activation of interleukin-17C signaling drives cancerogenesis of endometriosis"
+   },
+   {
+    "acc": "GSE292513",
+    "n": 8,
+    "t": "Loss of NF2 drives malignant transformation of human pancreatic acinar cells and enhances "
+   },
+   {
+    "acc": "GSE294254",
+    "n": 6,
+    "t": "Single-cell transcriptomics reveals cellular evolution underlying pleomorphic adenoma recu"
+   },
+   {
+    "acc": "GSE301163",
+    "n": 78,
+    "t": "Tracing the molecular route to progression in miRNA biogenesis-defective thyroid lesions ["
+   },
+   {
+    "acc": "GSE310992",
+    "n": 3,
+    "t": "Gastrointestinal CAR T-cell Lymphoma after ciltacabtagene autoleucel"
+   },
+   {
+    "acc": "GSE318238",
+    "n": 4,
+    "t": "Spatially resolved gene expression and tumour-microenvironment interactions across maligna"
+   },
+   {
+    "acc": "GSE318927",
+    "n": 14,
+    "t": "Macrophages in Neurofibroma Malignant Progression"
+   },
+   {
+    "acc": "GSE324769",
+    "n": 379,
+    "t": "Spatial Transcriptomics Reveals Molecular Differences Associated with Malignant Transforma"
+   },
+   {
+    "acc": "GSE333892",
+    "n": 64,
+    "t": "Single-cell transcriptomic and organoid multi-omic profiling of NF1-regulated malignant pr"
+   },
+   {
+    "acc": "GSE343350",
+    "n": 2,
+    "t": "Multi-tissue gene expression in HNSCC"
+   },
+   {
+    "acc": "GSE65407",
+    "n": 12,
+    "t": "A Luminal, Steroid Receptor-Positive Breast Cancer Stem Cell that Generates Intratumoral H"
+   },
+   {
+    "acc": "GSE96625",
+    "n": 6,
+    "t": "Abnormal RNA splicing and genomic instability after induction of DNMT3A mutations by CRISP"
+   }
+  ]
+ },
+ "ovca_atlas_sc": {
+  "count": 100,
+  "hits": [
+   {
+    "acc": "GSE123426",
+    "n": 12,
+    "t": "RNA-Seq expression profiling of clonal populations from the OCI-C5x patient-derived ovaria"
+   },
+   {
+    "acc": "GSE126131",
+    "n": 9,
+    "t": "Distinct fibroblast functional states drive clinical outcomes in ovarian cancer and are re"
+   },
+   {
+    "acc": "GSE126132",
+    "n": 34,
+    "t": "Distinct fibroblast functional states drive clinical outcomes in ovarian cancer and are re"
+   },
+   {
+    "acc": "GSE130000",
+    "n": 8,
+    "t": "Single cell RNA-seq analysis of ovarian cancer"
+   },
+   {
+    "acc": "GSE141630",
+    "n": 15,
+    "t": "Platinum chemotherapy induces diverse evolutionary trajectories in high grade serous ovari"
+   },
+   {
+    "acc": "GSE146026",
+    "n": 10906,
+    "t": "single cell RNA-seq analysis of ovarian cancer ascites"
+   },
+   {
+    "acc": "GSE147082",
+    "n": 6,
+    "t": "Characterizing the tumor microenvironment of metastatic ovarian cancer by single cell tran"
+   },
+   {
+    "acc": "GSE150864",
+    "n": 2,
+    "t": "Single cell RNA sequencing of human high-grade serous ovarian cancer (HGSC) cells and huma"
+   },
+   {
+    "acc": "GSE154600",
+    "n": 5,
+    "t": "Multi-omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian ca"
+   },
+   {
+    "acc": "GSE154950",
+    "n": 8,
+    "t": "Integrated molecular profiling of patient-derived ovarian cancer models identifies clinica"
+   },
+   {
+    "acc": "GSE158722",
+    "n": 39,
+    "t": "Evolution of core archetypal phenotypes in high-grade serous ovarian cancer (HGSOC)"
+   },
+   {
+    "acc": "GSE158803",
+    "n": 10,
+    "t": "A Single-Cell Tumor Immune Atlas for Precision Oncology"
+   },
+   {
+    "acc": "GSE158937",
+    "n": 3,
+    "t": "Single-cell RNA sequencing samples from high-grade serous ovarian cancer (HGSOC)"
+   },
+   {
+    "acc": "GSE160750",
+    "n": 4,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE160751",
+    "n": 22,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE160752",
+    "n": 16,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE160753",
+    "n": 1,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE160754",
+    "n": 1,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE160755",
+    "n": 44,
+    "t": "Enhanced efficacy of simultaneous PD-1 and PD-L1 immune checkpoint blockade in high grade "
+   },
+   {
+    "acc": "GSE165897",
+    "n": 22,
+    "t": "Longitudinal single-cell RNA-seq data of metastatic ovarian cancer"
+   },
+   {
+    "acc": "GSE180661",
+    "n": 283,
+    "t": "Ovarian cancer mutational processes drive site-specific immune evasion"
+   },
+   {
+    "acc": "GSE181496",
+    "n": 6,
+    "t": "High-grade Ovarian Cancer Associated H/ACA snoRNAs Promote Cancer Cell Proliferation and S"
+   },
+   {
+    "acc": "GSE181955",
+    "n": 8,
+    "t": "Gene expression of Ovarian Cancer"
+   },
+   {
+    "acc": "GSE183210",
+    "n": 30,
+    "t": "Phenotypic consequences of SLC25A40-ABCB1 fusions beyond drug resistance in High Grade Ser"
+   },
+   {
+    "acc": "GSE184880",
+    "n": 12,
+    "t": "Single-cell RNA sequencing reveals tissue architecture during human high-grade serous ovar"
+   },
+   {
+    "acc": "GSE185833",
+    "n": 12,
+    "t": "Stanniocalcin 1 promotes metastasis by enhancing lipid metabolism via FOXC2/ITGB6 signalin"
+   },
+   {
+    "acc": "GSE186344",
+    "n": 18,
+    "t": "Cellular Architecture of Human Brain Metastases"
+   },
+   {
+    "acc": "GSE189843",
+    "n": 12,
+    "t": "Spatially resolved transcriptomics of high-grade serous ovarian carcinoma"
+   },
+   {
+    "acc": "GSE189955",
+    "n": 20,
+    "t": "Single-cell dissection of multiomics changes and epigenetic regulations in human high-grad"
+   },
+   {
+    "acc": "GSE192898",
+    "n": 9,
+    "t": "Single cell 5' RNA sequencing of 9 Korean ovarian cancer patients"
+   },
+   {
+    "acc": "GSE201047",
+    "n": 22,
+    "t": "Distinct transcriptional programs of ascitic and solid cancer cells induce a different res"
+   },
+   {
+    "acc": "GSE202263",
+    "n": 22,
+    "t": "A platform for efficient establishment and drug response profiling of high-grade serous ov"
+   },
+   {
+    "acc": "GSE207993",
+    "n": 4,
+    "t": "Single-cell Analysis of a High-grade Serous Ovarian Cancer Cell Line Reveals Transcriptomi"
+   },
+   {
+    "acc": "GSE208216",
+    "n": 14,
+    "t": "High grade serous ovarian cancer organoids as models of chromosomal instability"
+   },
+   {
+    "acc": "GSE211956",
+    "n": 13,
+    "t": "Spatial transcriptomics reveals ovarian cancer subclones with different microenvironments"
+   },
+   {
+    "acc": "GSE212391",
+    "n": 110,
+    "t": "Towards the DNA methylation haplotype map of 11 common solid cancers"
+   },
+   {
+    "acc": "GSE213243",
+    "n": 8,
+    "t": "Single-cell sequencing reveals effects of chemotherapy on the immune landscape and TCR/BCR"
+   },
+   {
+    "acc": "GSE217517",
+    "n": 34,
+    "t": "Paired bulk and single-cell RNA-seq on high-grade serous ovarian cancer (HGSOC) samples"
+   },
+   {
+    "acc": "GSE222554",
+    "n": 61,
+    "t": "Neoadjuvant PARPi or Chemotherapy in Ovarian Cancer Informs Targeting Effector Treg Cells "
+   },
+   {
+    "acc": "GSE222555",
+    "n": 10,
+    "t": "Neoadjuvant PARPi or Chemotherapy in Ovarian Cancer Informs Targeting Effector Treg Cells "
+   },
+   {
+    "acc": "GSE222556",
+    "n": 67,
+    "t": "Neoadjuvant PARPi or Chemotherapy in Ovarian Cancer Informs Targeting Effector Treg Cells "
+   },
+   {
+    "acc": "GSE223426",
+    "n": 26,
+    "t": "Comprehensive analysis of Bulk RNA-seq and Single-nuclei RNA-seq reveals the origin of hig"
+   },
+   {
+    "acc": "GSE224333",
+    "n": 3,
+    "t": "Gene expression profile at single cell level of in vitro monoculture and co-culture cells "
+   },
+   {
+    "acc": "GSE224334",
+    "n": 10,
+    "t": "Gene expression profile at single cell level of ovarian clear cell carcinoma (OCCC) [snRNA"
+   },
+   {
+    "acc": "GSE224392",
+    "n": 21,
+    "t": "Immunotherapies that repolarize macrophages and regulatory T cells enhance the effect of c"
+   },
+   {
+    "acc": "GSE232314",
+    "n": 4,
+    "t": "Single-cell analysis reveals the stromal dynamics and tumor-specific characteristics in th"
+   },
+   {
+    "acc": "GSE235329",
+    "n": 27,
+    "t": "Locus-specific LINE-1 expression in clinical ovarian cancer specimens at the single-cell l"
+   },
+   {
+    "acc": "GSE235931",
+    "n": 15,
+    "t": "Exploring the tumor micro-environment of ovarian cancer histotypes and tumor sites"
+   },
+   {
+    "acc": "GSE241221",
+    "n": 11,
+    "t": "Altered tumor signature and T-cell profile after chemotherapy reveal new therapeutic oppor"
+   },
+   {
+    "acc": "GSE241912",
+    "n": 12,
+    "t": "Effect of extracellular spliceosomal snRNAs on the transcriptome of ovarian cancer cells"
+   },
+   {
+    "acc": "GSE241914",
+    "n": 60,
+    "t": "Therapy-induced Secretion of Spliceosomal Components Mediates Pro-Survival Crosstalk Betwe"
+   },
+   {
+    "acc": "GSE247098",
+    "n": 4,
+    "t": "Single-cell analysis predicts that mesenchymal ovarian cancer cells promote CD8+ T cell ex"
+   },
+   {
+    "acc": "GSE247982",
+    "n": 10,
+    "t": "The chromatin landscape of high-grade serous ovarian cancer metastasis identifies potentia"
+   },
+   {
+    "acc": "GSE264488",
+    "n": 14,
+    "t": "Chemotherapy promotes antigen presentation in monocytes of patients with high-grade serous"
+   },
+   {
+    "acc": "GSE264489",
+    "n": 12,
+    "t": "Chemotherapy promotes antigen presentation in monocytes of patients with high-grade serous"
+   },
+   {
+    "acc": "GSE266577",
+    "n": 48,
+    "t": "Chemotherapy induces myeloid-driven spatial T-cell exhaustion in ovarian cancer"
+   },
+   {
+    "acc": "GSE268921",
+    "n": 8,
+    "t": "Single Nucleus DNA Sequencing of Flow Sorted Archived Frozen and Formalin Fixed Paraffin E"
+   },
+   {
+    "acc": "GSE269793",
+    "n": 10,
+    "t": "Neoadjuvant PARPi or Chemotherapy in Ovarian Cancer Informs Targeting Effector Treg Cells "
+   },
+   {
+    "acc": "GSE270250",
+    "n": 13,
+    "t": "Comprehensive analysis of Bulk RNA-seq and Single-nuclei RNA-seq reveals the origin of hig"
+   },
+   {
+    "acc": "GSE281120",
+    "n": 9,
+    "t": "The emergence of DNAM-1 as the facilitator of NK cell-mediated killing in Ovarian Cancer"
+   },
+   {
+    "acc": "GSE281517",
+    "n": 72,
+    "t": "Lysosomal sequestration of PARP inhibitors drives heterogeneous accumulation in ovarian ca"
+   },
+   {
+    "acc": "GSE281519",
+    "n": 132,
+    "t": "Lysosomal sequestration of PARP inhibitors drives heterogeneous accumulation in ovarian ca"
+   },
+   {
+    "acc": "GSE286057",
+    "n": 36,
+    "t": "Ovarian cancer metastasis to the human omentum disrupts organ homeostasis and induces fund"
+   },
+   {
+    "acc": "GSE290141",
+    "n": 6,
+    "t": "Immune Evasion Mechanisms in Early Stage-I High-Grade Serous Ovarian Carcinoma: Insights i"
+   },
+   {
+    "acc": "GSE296599",
+    "n": 2,
+    "t": "SOX9 is a driver of a stem-like transcriptional state and platinum resistance in high-grad"
+   },
+   {
+    "acc": "GSE297350",
+    "n": 2,
+    "t": "SOX9 is a driver of a stem-like transcriptional state and platinum resistance in high-grad"
+   },
+   {
+    "acc": "GSE297836",
+    "n": 3,
+    "t": "ROR1-PI3K/AKT signaling drives adaptive resistance to cell cycle blockade in TP53 mutated "
+   },
+   {
+    "acc": "GSE300038",
+    "n": 1,
+    "t": "Adipocytes are dispensable in shaping the ovarian cancer tumor microenvironment in the ome"
+   },
+   {
+    "acc": "GSE300897",
+    "n": 9,
+    "t": "Single-cell RNA-seq profiling of treatment-na\u00efve chemo-refractory and chemo-sensitive ovar"
+   },
+   {
+    "acc": "GSE301378",
+    "n": 32,
+    "t": "Single-cell RNA-seq and TCR profiling of tissue-resident memory T cells in the fallopian t"
+   },
+   {
+    "acc": "GSE305375",
+    "n": 36,
+    "t": "Identification of Detachment-Responsive Transcripts in Ovarian Cancer"
+   },
+   {
+    "acc": "GSE305420",
+    "n": 18,
+    "t": "RHOV is a Detachment-Responsive Rho GTPase Necessary for Early Metastatic Reprogramming in"
+   },
+   {
+    "acc": "GSE307725",
+    "n": 4,
+    "t": "Ex Vivo Immuno-Oncology Platform Reveals Spatial T Cell Infiltration Patterns Linked to AT"
+   },
+   {
+    "acc": "GSE308072",
+    "n": 6,
+    "t": "Ex vivo drug sensitivity testing predicts treatment outcomes in advanced ovarian cancer"
+   },
+   {
+    "acc": "GSE310915",
+    "n": 3,
+    "t": "Single-Cell Integration of Chromatin Accessibility and Transcriptomics Reveals Regulatory "
+   },
+   {
+    "acc": "GSE315520",
+    "n": 10,
+    "t": "circASCOR enhances platinum resistance  in ovarian cancer"
+   },
+   {
+    "acc": "GSE315531",
+    "n": 28,
+    "t": "RNAseq analysis of overexpression of KLK5 in the HGSOC epithelial cells on ovarian cancer"
+   },
+   {
+    "acc": "GSE316118",
+    "n": 6,
+    "t": "Keratin 5 expression defines cancer-propagating cells that are sustained by a hierarchical"
+   },
+   {
+    "acc": "GSE319733",
+    "n": 20,
+    "t": "Tumor-draining lymph nodes in ovarian cancer lack germinal centers but harbor tumor-reacti"
+   },
+   {
+    "acc": "GSE344640",
+    "n": 1,
+    "t": "Single-cell RNA sequencing of a treatment-naive human high-grade serous ovarian carcinoma"
+   }
+  ]
+ }
+}

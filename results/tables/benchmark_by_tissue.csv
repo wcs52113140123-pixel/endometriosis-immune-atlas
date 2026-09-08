@@ -1,0 +1,19 @@
+tissue,tests,pooled_sig,not_upheld,fpr_pooled,pct_not_upheld
+blood,700,610,410,0.8505,67.0
+brain,1463,1034,876,0.772,85.0
+colon,603,536,380,0.845,71.0
+digestive system,41,37,23,0.87,62.0
+esophagus,67,58,38,0.825,66.0
+heart,133,112,69,0.844,62.0
+kidney,363,315,194,0.858,62.0
+large intestine,255,230,67,0.828,29.0
+liver,50,42,33,0.879,79.0
+lung,1155,1056,660,0.881,62.0
+lymph node,36,31,24,0.891,77.0
+mucosa,46,40,32,0.8145,80.0
+nose,59,57,47,0.811,82.0
+pancreas,52,36,28,0.8394999999999999,78.0
+prostate gland,59,53,53,0.907,100.0
+respiratory system,73,60,51,0.865,85.0
+small intestine,420,382,241,0.8485,63.0
+stomach,416,364,244,0.8225,67.0

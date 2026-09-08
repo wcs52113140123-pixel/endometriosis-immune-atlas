@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "Unit of replication in single-cell studies of the endometriotic immune microenvironment"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Xi
+  - family-names: Zou
+    given-names: Xiaofeng
+  - family-names: Liang
+    given-names: Kang
+  - family-names: Yang
+    given-names: Danhe
+  - family-names: Xiong
+    given-names: Bing
+  - family-names: Liao
+    given-names: Juan
+  - family-names: Wang
+    given-names: Mingyang
+  - family-names: Xu
+    given-names: Ke
+  - family-names: Lin
+    given-names: Zhenjiang
+  - family-names: Wang
+    given-names: Zhiliang
+    affiliation: "Department of Obstetrics and Gynecology, Affiliated Hospital of Zunyi Medical University, Zunyi, Guizhou, China"
+license: MIT
+repository-code: "https://github.com/wcs52113140123-pixel/endometriosis-immune-atlas"
+preferred-citation:
+  type: article
+  title: "Why single-cell studies of the endometriotic immune microenvironment disagree: the unit of replication changes the answer"
+  authors:
+    - family-names: Wang
+      given-names: Xi
+    - family-names: Wang
+      given-names: Zhiliang
+  year: 2026
+  journal: "[journal — to be completed on acceptance]"

@@ -1,0 +1,5 @@
+gene_set,source,n_genes_measured,overlap_with_composite,macrophage_up,macrophage_diff,macrophage_P,stroma_up,stroma_diff,stroma_P,epithelium_up,epithelium_diff,epithelium_P
+Nine-gene M2/immunosuppression composite (this study),—,9,9,5/5,0.785,0.0312,3/5,-0.054,0.406,1/5,-0.152,0.969
+"Published M2 signature, 188 genes (MSigDB M6596)","Martinez et al., 2006",168,0,2/5,-0.013,0.6875,1/5,-0.084,0.844,1/5,-0.058,0.844
+WikiPathways macrophage markers (MSigDB M39708),WikiPathways WP4146,9,1,5/5,0.533,0.0312,3/5,-0.009,0.5,3/5,0.064,0.406
+Ad hoc disjoint alternative-activation markers,—,9,0,4/5,0.192,0.1562,3/5,-0.026,0.688,1/5,-0.124,0.844

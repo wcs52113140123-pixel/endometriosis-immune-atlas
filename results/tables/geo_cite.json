@@ -1,0 +1,152 @@
+[
+ {
+  "acc": "GSE179640",
+  "year": "2022",
+  "title": "Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues",
+  "contributors": [
+   "Yuliana,,Tan",
+   "William,F,Flynn",
+   "Paul,,Robson",
+   "Danielle,E,Luciano",
+   "Elise,T,Courtois"
+  ],
+  "submission_date": "Jul 07 2021"
+ },
+ {
+  "acc": "GSE203191",
+  "year": "2022",
+  "title": "Single cell analysis of menstrual endometrial tissues defines phenotypes associated with endometriosis",
+  "contributors": [
+   "Andrew,J,Shih",
+   "Robert,P,Adelson",
+   "Himanshu,,Vashistha",
+   "Houman,,Khalili",
+   "Ashima,,Nayyar",
+   "Radha,,Puran",
+   "Rixsi,,Herrera",
+   "Prodyot,K,Chatterjee",
+   "Annette,T,Lee",
+   "Alexander,,Truskinovsky",
+   "Kristine,,Elmaliki",
+   "Margaret,,DeFranco",
+   "Christine,N,Metz",
+   "Peter,K,Gregersen"
+  ],
+  "submission_date": "May 17 2022"
+ },
+ {
+  "acc": "GSE213216",
+  "year": "2022",
+  "title": "A single-cell transcriptomic analysis of endometriosis",
+  "contributors": [
+   "Kate,,Lawrenson",
+   "Marcos,A,Fonseca"
+  ],
+  "submission_date": "Sep 12 2022"
+ },
+ {
+  "acc": "GSE214411",
+  "year": "2023",
+  "title": "Single-cell Transcriptomics of Endometrial Cells from Patients with Minimal/mild Endometriosis.",
+  "contributors": [
+   "Xin,,Huang",
+   "Huili,,Zhu",
+   "Wei,,Huang",
+   "Tianjiao,,Pei",
+   "Lukanxuan,,Wu"
+  ],
+  "submission_date": "Sep 28 2022"
+ },
+ {
+  "acc": "GSE224333",
+  "year": "2024",
+  "title": "Gene expression profile at single cell level of in vitro monoculture and co-culture cells of ovarian clear cell carcinoma (OCCC) [OCCC_scRNAseq_invitro]",
+  "contributors": [
+   "Yutaro,,Mori",
+   "Koji,,Okamoto"
+  ],
+  "submission_date": "Feb 02 2023"
+ },
+ {
+  "acc": "GSE224334",
+  "year": "2024",
+  "title": "Gene expression profile at single cell level of ovarian clear cell carcinoma (OCCC) [snRNA-seq OCCC]",
+  "contributors": [
+   "Yutaro,,Mori",
+   "Koji,,Okamoto"
+  ],
+  "submission_date": "Feb 02 2023"
+ },
+ {
+  "acc": "GSE247695",
+  "year": "2024",
+  "title": "Endometriotic lesions exert distinct metabolic activity compared to paired eutopic endometrium at a single-cell level",
+  "contributors": [
+   "Meruert,,Sarsenova",
+   "Ankita,,Lawarde",
+   "Amruta,D,Pathare",
+   "Merli,,Saare",
+   "Vijayachitra,,Modhukur",
+   "Pille,,Soplepmann",
+   "Kristina,,Gemzell-Danielsson",
+   "Parameswaran,G,Lalitkumar",
+   "Andres,,Salumets",
+   "Maire,,Peters"
+  ],
+  "submission_date": "Nov 14 2023"
+ },
+ {
+  "acc": "GSE291389",
+  "year": "2025",
+  "title": "An activation of interleukin-17C signaling drives cancerogenesis of endometriosis",
+  "contributors": [],
+  "submission_date": "Mar 07 2025"
+ },
+ {
+  "acc": "GSE263897",
+  "year": "2024",
+  "title": "Spatial Transcriptomic Analysis of Superficial Peritoneal Endometriotic Lesions",
+  "contributors": [
+   "Gregory,W,Burns",
+   "Zhen,,Fu",
+   "Erin,L,Vegter",
+   "Zachary,B,Madaj",
+   "Erin,,Greaves",
+   "Idhaliz,,Flores",
+   "Asgerally,T,Fazleabas"
+  ],
+  "submission_date": "Apr 12 2024"
+ },
+ {
+  "acc": "GSE65986",
+  "year": "2015",
+  "title": "Integrated copy number and expression analysis identifies profiles of whole-arm chromosomal alterations and subgroups with favorable outcome in ovarian clear cell carcinomas",
+  "contributors": [
+   "Yuriko,,Uehara",
+   "Katsutoshi,,Oda",
+   "Yuji,,Ikeda",
+   "Takahiro,,Koso",
+   "Shingo,,Tsuji",
+   "Shogo,,Yamamoto",
+   "Kayo,,Asada",
+   "Kenbun,,Sone",
+   "Reiko,,Kurikawa",
+   "Kenbun,,Sone",
+   "Chinami,,Makii",
+   "Otoe,,Hagiwara",
+   "Michihiro,,Tanikawa",
+   "Daichi,,Maeda",
+   "Kosei,,Hasegawa",
+   "Shunsuke,,Nakagawa",
+   "Osamu,,Wada-Hiraike",
+   "Kei,,Kawana",
+   "Masashi,,Fukayama",
+   "Keiichi,,Fujiwara",
+   "Tetsu,,Yano",
+   "Yutaka,,Osuga",
+   "Tomoyuki,,Fujii",
+   "Hiroyuki,,Aburatani"
+  ],
+  "submission_date": "Feb 17 2015"
+ }
+]

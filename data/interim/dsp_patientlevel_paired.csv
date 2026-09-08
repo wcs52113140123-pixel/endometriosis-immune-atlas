@@ -1,0 +1,4 @@
+segment,n_patients,eutopic_mean,lesion_mean,mean_diff,n_pat_up,p_paired_1sided
+Macrophages,5,0.201,0.986,+0.785,5,0.0312
+Stroma,5,0.002,-0.052,-0.054,3,0.4062
+Epithelium,5,-0.492,-0.645,-0.152,1,0.9688

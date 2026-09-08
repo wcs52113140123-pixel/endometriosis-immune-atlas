@@ -1,0 +1,185 @@
+{
+ "endo_paired_spatial": {
+  "count": 6,
+  "hits": [
+   {
+    "acc": "GSE213216",
+    "n": 51,
+    "t": "A single-cell transcriptomic analysis of endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE263897",
+    "n": 60,
+    "t": "Spatial Transcriptomic Analysis of Superficial Peritoneal Endometriotic Lesions",
+    "d": ""
+   },
+   {
+    "acc": "GSE276193",
+    "n": 18,
+    "t": "Integrative Single-Cell Analysis Reveals Iron Overload-Induced Senescence and Metabolic Reprogrammin",
+    "d": ""
+   },
+   {
+    "acc": "GSE287278",
+    "n": 8,
+    "t": "A spatial transcriptomics dataset of the endometrium from repeated implantation failure patients",
+    "d": ""
+   },
+   {
+    "acc": "GSE291389",
+    "n": 3,
+    "t": "An activation of interleukin-17C signaling drives cancerogenesis of endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE303150",
+    "n": 142,
+    "t": "Spatial Transcriptomics Uncovers the Hybrid Molecular Identity, Ciliated Phenotype, and Immune Signa",
+    "d": ""
+   }
+  ]
+ },
+ "endo_paired_sc": {
+  "count": 8,
+  "hits": [
+   {
+    "acc": "GSE179640",
+    "n": 59,
+    "t": "Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunoto",
+    "d": ""
+   },
+   {
+    "acc": "GSE184880",
+    "n": 12,
+    "t": "Single-cell RNA sequencing reveals tissue architecture during human high-grade serous ovarian cancer",
+    "d": ""
+   },
+   {
+    "acc": "GSE203191",
+    "n": 11,
+    "t": "Single cell analysis of menstrual endometrial tissues defines phenotypes associated with endometrios",
+    "d": ""
+   },
+   {
+    "acc": "GSE213216",
+    "n": 51,
+    "t": "A single-cell transcriptomic analysis of endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE247695",
+    "n": 8,
+    "t": "Endometriotic lesions exert distinct metabolic activity compared to paired eutopic endometrium at a ",
+    "d": ""
+   },
+   {
+    "acc": "GSE262645",
+    "n": 6,
+    "t": "mregDCs induce abnormal T cell functions in endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE294255",
+    "n": 8,
+    "t": "ALDH1A1+ cells are endometrial progenitors contributing to regeneration and endometriosis [Human]",
+    "d": ""
+   },
+   {
+    "acc": "GSE302113",
+    "n": 38,
+    "t": "Clonal lineage tracing of innate immune cells in human cancer",
+    "d": ""
+   }
+  ]
+ },
+ "endo_macrophage": {
+  "count": 14,
+  "hits": [
+   {
+    "acc": "GSE104176",
+    "n": 30,
+    "t": "The medium-chain free fatty acid receptor GPR84 is expressed in pro-inflammatory macrophages and med",
+    "d": ""
+   },
+   {
+    "acc": "GSE130435",
+    "n": 18,
+    "t": "Macrophages in eutopic endometrium endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE133867",
+    "n": 4,
+    "t": "Expression data from human macrophage",
+    "d": ""
+   },
+   {
+    "acc": "GSE14",
+    "n": 765,
+    "t": "Cancer Genome Anatomy Project (CGAP) SAGE Libraries",
+    "d": ""
+   },
+   {
+    "acc": "GSE15309",
+    "n": 327,
+    "t": "Cancer Genome Anatomy Project (CGAP) Human SAGE",
+    "d": ""
+   },
+   {
+    "acc": "GSE184880",
+    "n": 12,
+    "t": "Single-cell RNA sequencing reveals tissue architecture during human high-grade serous ovarian cancer",
+    "d": ""
+   },
+   {
+    "acc": "GSE202661",
+    "n": 11,
+    "t": "Endometriotic Organoids: A Novel In Vitro Model of Endometriotic Lesion Development",
+    "d": ""
+   },
+   {
+    "acc": "GSE260626",
+    "n": 6,
+    "t": "Transcriptome analysis of mesenchymal stem cells in eutopic endometrium and normal endometrium of pa",
+    "d": ""
+   },
+   {
+    "acc": "GSE263897",
+    "n": 60,
+    "t": "Spatial Transcriptomic Analysis of Superficial Peritoneal Endometriotic Lesions",
+    "d": ""
+   },
+   {
+    "acc": "GSE276193",
+    "n": 18,
+    "t": "Integrative Single-Cell Analysis Reveals Iron Overload-Induced Senescence and Metabolic Reprogrammin",
+    "d": ""
+   },
+   {
+    "acc": "GSE291389",
+    "n": 3,
+    "t": "An activation of interleukin-17C signaling drives cancerogenesis of endometriosis",
+    "d": ""
+   },
+   {
+    "acc": "GSE302113",
+    "n": 38,
+    "t": "Clonal lineage tracing of innate immune cells in human cancer",
+    "d": ""
+   },
+   {
+    "acc": "GSE328997",
+    "n": 35,
+    "t": "Endometriosis-derived iPSCs reveal conserved stromal maturation and endocrine responsiveness",
+    "d": ""
+   },
+   {
+    "acc": "GSE342486",
+    "n": 5,
+    "t": "Wenshen Xiaozheng Tang ameliorates endometriosis by interrupting the lactate/H3K9la-mediated crossta",
+    "d": ""
+   }
+  ]
+ }
+}

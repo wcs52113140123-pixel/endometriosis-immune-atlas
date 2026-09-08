@@ -1,0 +1,146 @@
+{
+ "GSE179640": {
+  "n": 59,
+  "series_supp": [
+   "GSE179640_RAW.tar",
+   "GSE179640_organoid_cellhashing_mapping.xls.gz"
+  ],
+  "per_sample_fmt": [
+   "h5",
+   "mtx"
+  ],
+  "tissue": [
+   [
+    "tissue=Endometrium",
+    24
+   ],
+   [
+    "tissue=Peritoneum",
+    21
+   ],
+   [
+    "tissue=Ovary",
+    10
+   ],
+   [
+    "tissue=Patient-Derived Organoid",
+    4
+   ]
+  ]
+ },
+ "GSE294255": {
+  "n": 8,
+  "series_supp": [
+   "GSE294255_normalized_counts.csv.gz"
+  ],
+  "per_sample_fmt": [],
+  "tissue": [
+   [
+    "tissue=Endometriosis lesion",
+    8
+   ],
+   [
+    "cell type=Epithelium",
+    8
+   ]
+  ]
+ },
+ "GSE291389": {
+  "n": 3,
+  "series_supp": [
+   "GSE291389_RAW.tar"
+  ],
+  "per_sample_fmt": [
+   "mtx"
+  ],
+  "tissue": [
+   [
+    "tissue=Normal endometrium",
+    1
+   ],
+   [
+    "tissue=endometriosis",
+    1
+   ],
+   [
+    "tissue=endometriosis associated ovarian cancer",
+    1
+   ]
+  ]
+ },
+ "GSE214411": {
+  "n": 13,
+  "series_supp": [
+   "GSE214411_RAW.tar"
+  ],
+  "per_sample_fmt": [
+   "mtx"
+  ],
+  "tissue": [
+   [
+    "tissue=Endometirum",
+    10
+   ],
+   [
+    "cell type=Endometrial cells",
+    3
+   ],
+   [
+    "tissue=Endometrium",
+    3
+   ]
+  ]
+ },
+ "GSE203191": {
+  "n": 11,
+  "series_supp": [
+   "GSE203191_RAW.tar",
+   "GSE203191_Shih_endo_meta_frame.tsv.gz",
+   "GSE203191_metadata.xlsx"
+  ],
+  "per_sample_fmt": [
+   "h5"
+  ],
+  "tissue": [
+   [
+    "tissue=MEtissue",
+    7
+   ],
+   [
+    "tissue=wholeME",
+    3
+   ],
+   [
+    "tissue=wholeME/Metissue",
+    1
+   ]
+  ]
+ },
+ "GSE224333": {
+  "n": 3,
+  "series_supp": [
+   "GSE224333_RAW.tar"
+  ],
+  "per_sample_fmt": [
+   "mtx"
+  ],
+  "tissue": [
+   [
+    "tissue=OCCC tumor",
+    3
+   ],
+   [
+    "cell type=Cancer cells and CAFs",
+    1
+   ],
+   [
+    "cell type=CAFs",
+    1
+   ],
+   [
+    "cell type=Cancer cells",
+    1
+   ]
+  ]
+ }
+}

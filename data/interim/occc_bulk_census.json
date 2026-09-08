@@ -1,0 +1,322 @@
+{
+ "occc_bulk_surv": {
+  "count": 16,
+  "hits": [
+   {
+    "acc": "GSE107201",
+    "n": 3,
+    "t": "Synthetic lethality between ARID1A mutation and HDAC2 inhibition in ovarian cancer"
+   },
+   {
+    "acc": "GSE128990",
+    "n": 96,
+    "t": "Immune subtype of ovarian clear cell carcinoma"
+   },
+   {
+    "acc": "GSE129617",
+    "n": 25,
+    "t": "Gene expression data of ovarian clear cell carcinoma from Singapore"
+   },
+   {
+    "acc": "GSE189552",
+    "n": 24,
+    "t": "The phosphate exporter XPR1/SLC53A1 is required for the tumorigenicity of ovarian cancer."
+   },
+   {
+    "acc": "GSE189553",
+    "n": 23,
+    "t": "Gene expression profiling of epithelial ovarian cancer by bulk RNA-seq"
+   },
+   {
+    "acc": "GSE200509",
+    "n": 6,
+    "t": "MEX3A mediates p53 degradation to suppress ferroptosis and facilitate ovarian cancer tumorigene"
+   },
+   {
+    "acc": "GSE264286",
+    "n": 8,
+    "t": "Combined targeting poly (ADP-ribose) polymerase and receptor tyrosine kinase inhibits ovarian c"
+   },
+   {
+    "acc": "GSE270218",
+    "n": 4,
+    "t": "PI3K/mTOR dual inhibitor GSK458 and arsenic trioxide exert synergistic anti-tumor effects again"
+   },
+   {
+    "acc": "GSE276284",
+    "n": 43,
+    "t": "PPP2R1A mutations portend improved survival after cancer immunotherapy"
+   },
+   {
+    "acc": "GSE281988",
+    "n": 6,
+    "t": "The biological function of GYS1 and p53 in ovarian clear cell carcinoma cell line."
+   },
+   {
+    "acc": "GSE29175",
+    "n": 38,
+    "t": "Expression data from ovarian cancer cell lines"
+   },
+   {
+    "acc": "GSE294002",
+    "n": 8,
+    "t": "Transcriptomic analyses of ovarian clear cell carcinoma sphe-roids reveal distinct proliferativ"
+   },
+   {
+    "acc": "GSE29450",
+    "n": 20,
+    "t": "Identification of Novel Therapeutic Targets in Microdissected Clear Cell Ovarian Cancers"
+   },
+   {
+    "acc": "GSE310582",
+    "n": 6,
+    "t": "MEX3A control of mitochondrial fitness is essential for ovarian clear cell carcinoma tumorigene"
+   },
+   {
+    "acc": "GSE65986",
+    "n": 55,
+    "t": "Integrated copy number and expression analysis identifies profiles of whole-arm chromosomal alt"
+   },
+   {
+    "acc": "GSE84405",
+    "n": 5,
+    "t": "ARID1A-mutated ovarian cancers depend on HDAC6 activity"
+   }
+  ]
+ },
+ "occc_bulk_any": {
+  "count": 57,
+  "hits": [
+   {
+    "acc": "GSE101974",
+    "n": 22,
+    "t": "ARID1A and ARID1B loss in TOV21G cells"
+   },
+   {
+    "acc": "GSE107201",
+    "n": 3,
+    "t": "Synthetic lethality between ARID1A mutation and HDAC2 inhibition in ovarian cancer"
+   },
+   {
+    "acc": "GSE114332",
+    "n": 18,
+    "t": "RNA-Seq of Breast and Ovarian Cancer Cell Lines"
+   },
+   {
+    "acc": "GSE121103",
+    "n": 59,
+    "t": "Epigenomic and transcriptomic analyses of epithelial ovarian cancer"
+   },
+   {
+    "acc": "GSE123426",
+    "n": 12,
+    "t": "RNA-Seq expression profiling of clonal populations from the OCI-C5x patient-derived ovarian cle"
+   },
+   {
+    "acc": "GSE128990",
+    "n": 96,
+    "t": "Immune subtype of ovarian clear cell carcinoma"
+   },
+   {
+    "acc": "GSE129617",
+    "n": 25,
+    "t": "Gene expression data of ovarian clear cell carcinoma from Singapore"
+   },
+   {
+    "acc": "GSE140179",
+    "n": 22,
+    "t": "Effect of SPINK1 and IL-6 knockdown in JHOC9 and JHOC5 ovarian clear cell carcinoma cells"
+   },
+   {
+    "acc": "GSE157153",
+    "n": 66,
+    "t": "Gene expression profiling in endometriosis and ovarian cancer"
+   },
+   {
+    "acc": "GSE160692",
+    "n": 16,
+    "t": "Transcriptome analysis of ovarian and uterine clear cell malignancies"
+   },
+   {
+    "acc": "GSE185008",
+    "n": 270,
+    "t": "DNA Methylation Profiles of Ovarian Clear Cell Carcinoma"
+   },
+   {
+    "acc": "GSE189553",
+    "n": 23,
+    "t": "Gene expression profiling of epithelial ovarian cancer by bulk RNA-seq"
+   },
+   {
+    "acc": "GSE197928",
+    "n": 20,
+    "t": "A multi-level investigation of the genetic relationship between endometriosis and ovarian cance"
+   },
+   {
+    "acc": "GSE200509",
+    "n": 6,
+    "t": "MEX3A mediates p53 degradation to suppress ferroptosis and facilitate ovarian cancer tumorigene"
+   },
+   {
+    "acc": "GSE212670",
+    "n": 24,
+    "t": "Gene Expressions in OCCC using Nanostring analysis"
+   },
+   {
+    "acc": "GSE224333",
+    "n": 3,
+    "t": "Gene expression profile at single cell level of in vitro monoculture and co-culture cells of ov"
+   },
+   {
+    "acc": "GSE224334",
+    "n": 10,
+    "t": "Gene expression profile at single cell level of ovarian clear cell carcinoma (OCCC) [snRNA-seq "
+   },
+   {
+    "acc": "GSE224335",
+    "n": 2,
+    "t": "Visium spatial gene expression analyses of ovarian clear cell carcinoma (OCCC) [visium OCCC]"
+   },
+   {
+    "acc": "GSE226870",
+    "n": 57,
+    "t": "Transcriptome and DNA methylation analyses highlight the role of menstrual cycle phase in tumor"
+   },
+   {
+    "acc": "GSE230956",
+    "n": 16,
+    "t": "Transcriptomic Analyses of Ovarian Clear-Cell Carcinoma with Concurrent Endometriosis"
+   },
+   {
+    "acc": "GSE237277",
+    "n": 7,
+    "t": "Comparative analysis of response to treatments and molecular features of tumor- derived organoi"
+   },
+   {
+    "acc": "GSE239685",
+    "n": 20,
+    "t": "MiR-146a-5p and miR-191-5p as novel diagnostic marker candidates for ovarian clear cell carcino"
+   },
+   {
+    "acc": "GSE261637",
+    "n": 49,
+    "t": "Integrative multi-omics analyses to identify the genetic and functional mechanisms underlying o"
+   },
+   {
+    "acc": "GSE264286",
+    "n": 8,
+    "t": "Combined targeting poly (ADP-ribose) polymerase and receptor tyrosine kinase inhibits ovarian c"
+   },
+   {
+    "acc": "GSE266248",
+    "n": 4,
+    "t": "Profiling of circRNA Expression in Human Ovarian Clear Cell Carcinoma (OCCC)"
+   },
+   {
+    "acc": "GSE267241",
+    "n": 4,
+    "t": "Identification of the YAP1-MAML2 fusion-regulated genes in ovarian cancer ES-2 cells"
+   },
+   {
+    "acc": "GSE276284",
+    "n": 43,
+    "t": "PPP2R1A mutations portend improved survival after cancer immunotherapy"
+   },
+   {
+    "acc": "GSE283623",
+    "n": 19,
+    "t": "Molecular insights into the malignant transformation of endometriosis into clear cell carcinoma"
+   },
+   {
+    "acc": "GSE283755",
+    "n": 8,
+    "t": "Effect of medical treatment on malignant transformation to clear cell carcinoma in endometriosi"
+   },
+   {
+    "acc": "GSE294002",
+    "n": 8,
+    "t": "Transcriptomic analyses of ovarian clear cell carcinoma sphe-roids reveal distinct proliferativ"
+   },
+   {
+    "acc": "GSE297968",
+    "n": 9,
+    "t": "RNA sequence for RMG1 cells with HIF2A knockdown under 1.5% O\u2082 for 24 hours"
+   },
+   {
+    "acc": "GSE298088",
+    "n": 9,
+    "t": "RNA-seq of human ovarian clear cell carcinoma PDX tumors"
+   },
+   {
+    "acc": "GSE306901",
+    "n": 38,
+    "t": "RNA-seq for the Kyoto clear cell carcinoma cohort."
+   },
+   {
+    "acc": "GSE307292",
+    "n": 189,
+    "t": "Multi-omics data analysis for the JGOG3025-TR1 ovarian clear cell carcinoma cohort."
+   },
+   {
+    "acc": "GSE320019",
+    "n": 8,
+    "t": "HDAC inhibition induces transient phenotypic inertia in dormant OCCC spheroids by derepression "
+   },
+   {
+    "acc": "GSE65986",
+    "n": 55,
+    "t": "Integrated copy number and expression analysis identifies profiles of whole-arm chromosomal alt"
+   },
+   {
+    "acc": "GSE68104",
+    "n": 43,
+    "t": "Cell Type Specific Enrichment Of Risk Associated Regulatory Elements At Ovarian Cancer Suscepti"
+   },
+   {
+    "acc": "GSE73614",
+    "n": 107,
+    "t": "Can High Grade Serous Ovarian Cancer TCGA Gene Expression Signatures be seen in High Grade Endo"
+   },
+   {
+    "acc": "GSE86004",
+    "n": 12,
+    "t": "Loss of HDAC-mediated repression and gain of NF-kB activation underlies cytokine induction in A"
+   },
+   {
+    "acc": "GSE90132",
+    "n": 12,
+    "t": "Suppression of the grainyhead transcription factor 2 gene (GRHL2) inhibits the proliferation, m"
+   }
+  ]
+ },
+ "enoc_bulk": {
+  "count": 5,
+  "hits": [
+   {
+    "acc": "GSE157153",
+    "n": 66,
+    "t": "Gene expression profiling in endometriosis and ovarian cancer"
+   },
+   {
+    "acc": "GSE253450",
+    "n": 6,
+    "t": "RNA sequencing of PART1 knockdown by siRNA in ovarian cancer cells"
+   },
+   {
+    "acc": "GSE303192",
+    "n": 18,
+    "t": "Transcriptomic analysis of ovarian cancer cells after drug administration and tRNA transfection"
+   },
+   {
+    "acc": "GSE90132",
+    "n": 12,
+    "t": "Suppression of the grainyhead transcription factor 2 gene (GRHL2) inhibits the proliferation, m"
+   },
+   {
+    "acc": "GSE94414",
+    "n": 15,
+    "t": "Transcriptome analysis of samples from patients with endometriosis"
+   }
+  ]
+ }
+}

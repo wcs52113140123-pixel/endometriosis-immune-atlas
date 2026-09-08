@@ -1,0 +1,4 @@
+analysis,n_samples,n_control,n_endometriosis,beta_log_scale,CI95_low,CI95_high,P_two_sided
+primary,81,11,70,0.064,-0.56,0.69,0.84
+sensitivity: unstated-condition samples as controls,84,14,70,0.05,-0.54,0.64,0.87
+Stouffer combination of 3 per-cohort one-sided tests,81,11,70,,,,0.36

@@ -1,0 +1,15 @@
+patient_left_out,n,up,mean_diff,P,analysis
+12529,4.0,4/4,0.81,0.0625,leave-one-patient-out
+2756,4.0,4/4,0.378,0.0625,leave-one-patient-out
+4909,4.0,4/4,0.973,0.0625,leave-one-patient-out
+5322,4.0,4/4,0.808,0.0625,leave-one-patient-out
+9997,4.0,4/4,0.957,0.0625,leave-one-patient-out
+CD163,,4/5,0.76,0.0938,leave-one-gene-out
+MRC1,,4/5,0.775,0.0625,leave-one-gene-out
+MSR1,,5/5,0.799,0.0312,leave-one-gene-out
+IL10,,4/5,0.759,0.0625,leave-one-gene-out
+TGFB1,,5/5,0.764,0.0312,leave-one-gene-out
+C1QA,,5/5,0.841,0.0312,leave-one-gene-out
+C1QB,,5/5,0.819,0.0312,leave-one-gene-out
+MERTK,,4/5,0.761,0.0625,leave-one-gene-out
+STAB1,,5/5,0.79,0.0312,leave-one-gene-out

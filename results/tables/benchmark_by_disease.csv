@@ -1,0 +1,62 @@
+disease,tests,pooled_sig,upheld,not_upheld,fpr_pooled,pct_not_upheld
+benign prostatic hyperplasia,59,53,0,53,0.907,100.0
+Alzheimer disease,82,55,2,53,0.803,96.0
+heart valve disorder,23,20,1,19,0.882,95.0
+vascular dementia,46,36,2,34,0.79,94.0
+dementia || Parkinson disease,46,36,2,34,0.7875000000000001,94.0
+dementia || vascular dementia || Alzheimer disease,46,41,4,37,0.788,90.0
+non-specific interstitial pneumonia,33,30,3,27,0.862,90.0
+dementia || tauopathy,46,31,3,28,0.7725,90.0
+periodontitis,23,20,2,18,0.857,90.0
+Parkinson disease,45,31,5,27,0.733,87.0
+type 2 diabetes mellitus,40,28,4,24,0.7725,86.0
+pulmonary sarcoidosis,33,27,4,23,0.841,85.0
+schizophrenia || type 2 diabetes mellitus,25,20,3,17,0.809,85.0
+bronchopulmonary dysplasia,38,32,5,27,0.8765000000000001,84.0
+bipolar I disorder || atherosclerosis,25,23,4,19,0.81,83.0
+ulcerative colitis,182,161,28,133,0.8654999999999999,83.0
+dementia,192,72,14,58,0.102,81.0
+chronic rhinitis,22,21,4,17,0.789,81.0
+post-COVID-19 disorder,28,27,5,22,0.8414999999999999,81.0
+tauopathy,47,36,7,29,0.769,81.0
+dementia || Alzheimer disease || schizophrenia,24,21,4,17,0.717,81.0
+anthracosis,33,27,5,22,0.87,81.0
+common variable immunodeficiency,24,21,4,17,0.837,81.0
+schizophrenia || tardive dyskinesia,25,20,4,16,0.827,80.0
+Lewy body dementia,34,24,5,19,0.641,79.0
+bipolar I disorder,25,23,5,18,0.841,78.0
+gastric intestinal metaplasia,160,143,31,112,0.828,78.0
+squamous cell lung carcinoma,93,89,21,69,0.942,78.0
+inflammatory bowel disease,97,86,20,66,0.89,77.0
+type 1 diabetes mellitus,60,45,11,34,0.8325,76.0
+schizophrenia,49,40,10,30,0.79,75.0
+atherosclerosis,50,42,11,31,0.8125,74.0
+gingivitis,23,20,6,14,0.789,70.0
+chronic obstructive pulmonary disease,170,146,47,101,0.8605,69.0
+chronic kidney disease,149,127,42,88,0.836,69.0
+hypersensitivity pneumonitis,33,26,8,18,0.817,69.0
+pulmonary fibrosis,76,70,23,48,0.8714999999999999,69.0
+gastritis,85,72,23,49,0.866,68.0
+B-cell non-Hodgkin lymphoma,35,31,10,21,0.891,68.0
+dementia || Alzheimer disease,47,36,12,24,0.766,67.0
+influenza,29,27,9,18,0.826,67.0
+interstitial lung disease,78,70,23,47,0.8865000000000001,67.0
+Barrett esophagus,67,58,20,38,0.825,66.0
+COVID-19,596,543,187,358,0.873,66.0
+cytomegalovirus infection,76,55,21,36,0.7915000000000001,65.0
+respiratory system disorder,48,42,15,27,0.783,64.0
+Crohn disease,439,396,143,254,0.842,64.0
+dementia || Alzheimer disease || Lewy body dementia,24,22,8,14,0.733,64.0
+tubular adenoma,25,22,8,14,0.755,64.0
+basal cell carcinoma,27,24,10,14,0.877,58.0
+colorectal cancer,249,227,99,131,0.85,58.0
+gastric cancer,171,149,69,83,0.815,56.0
+acute kidney failure,145,131,62,72,0.859,55.0
+small cell lung carcinoma,34,31,14,17,0.8374999999999999,55.0
+lung adenocarcinoma,209,196,90,107,0.879,55.0
+pneumonia,46,44,21,23,0.904,52.0
+nonpapillary renal cell carcinoma,41,35,18,18,0.909,51.0
+non-small cell lung carcinoma,60,58,34,24,0.874,41.0
+cystic fibrosis,74,70,43,27,0.8795,39.0
+colon adenocarcinoma,228,208,157,52,0.813,25.0
+myocarditis,31,27,23,4,0.668,15.0

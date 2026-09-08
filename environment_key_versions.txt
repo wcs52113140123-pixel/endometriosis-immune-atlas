@@ -1,0 +1,15 @@
+<string>:5: FutureWarning: `__version__` is deprecated, use `importlib.metadata.version('scanpy')` instead
+<string>:5: FutureWarning: `__version__` is deprecated, use `importlib.metadata.version('anndata')` instead.
+python 3.11.16
+  scanpy==1.11.5
+  anndata==0.12.19
+  numpy==2.4.6
+  pandas==2.3.3
+  scipy==1.17.1
+  statsmodels==0.15.0
+  matplotlib==3.11.1
+  sklearn==1.9.0
+  harmonypy==2.0.0
+  infercnvpy==0.6.1
+  lifelines==0.30.3
+  sccoda==0.1.9

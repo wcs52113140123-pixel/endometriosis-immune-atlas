@@ -1,0 +1,26 @@
+{
+ "GSE179640": {
+  "obs_pooled": 4.859591913835164e-07,
+  "obs_patient": 0.40356255995877355,
+  "fpr_pooled": 0.7845,
+  "fpr_patient": 0.0445,
+  "n_ctrl": 3,
+  "n_endo": 28
+ },
+ "GSE213216": {
+  "obs_pooled": 0.0006779309851670942,
+  "obs_patient": 0.7692791591017994,
+  "fpr_pooled": 0.7645,
+  "fpr_patient": 0.051,
+  "n_ctrl": 4,
+  "n_endo": 36
+ },
+ "GSE214411": {
+  "obs_pooled": 0.0003819591520359479,
+  "obs_patient": 0.9142857142857143,
+  "fpr_pooled": 0.561,
+  "fpr_patient": 0.037,
+  "n_ctrl": 4,
+  "n_endo": 6
+ }
+}

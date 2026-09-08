@@ -1,0 +1,5 @@
+site,M2_in_Mac,M1_in_Mac,M2_minus_M1,CD8_exhaustion,NK_cytotoxicity,Treg_frac_%
+Eutopic_endometrium,1.0426,0.0558,0.9868,-0.0411,1.239,2.5606
+Menstrual_endo,0.3597,0.423,-0.0634,-0.0664,1.3212,1.2331
+Peritoneum_lesion,1.0181,-0.15,1.168,-0.0521,1.6789,3.4949
+Ovary,1.8191,-0.2116,2.0307,0.0057,0.7204,1.3327

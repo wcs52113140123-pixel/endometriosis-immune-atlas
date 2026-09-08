@@ -1,0 +1,1333 @@
+{
+ "GSE130435": {
+  "meta": [
+   {
+    "gsm": "GSM3738633",
+    "title": "M1_Ctrl_1",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "fibroids",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738634",
+    "title": "M1_Ctrl_5",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "fibroids and adenomyosis",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738635",
+    "title": "M1_Ctrl_9",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "healthy",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738636",
+    "title": "M1_Endo_11",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738637",
+    "title": "M1_Endo_13",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage IV",
+    "phase menstrual cycle": "Early secretory"
+   },
+   {
+    "gsm": "GSM3738638",
+    "title": "M1_Endo_15",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage II",
+    "phase menstrual cycle": "Late secretory"
+   },
+   {
+    "gsm": "GSM3738639",
+    "title": "M1_Endo_17",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Early secretory"
+   },
+   {
+    "gsm": "GSM3738640",
+    "title": "M1_Endo_19",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M1 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738641",
+    "title": "M2_Ctrl_10",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "healthy",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738642",
+    "title": "M2_Ctrl_2",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "fibroids",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738643",
+    "title": "M2_Ctrl_6",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "fibroids and adenomyosis",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738644",
+    "title": "M2_Ctrl_8",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "fibroids",
+    "stage endometriosis": "no",
+    "phase menstrual cycle": "Late secretory"
+   },
+   {
+    "gsm": "GSM3738645",
+    "title": "M2_Endo_12",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738646",
+    "title": "M2_Endo_14",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage IV",
+    "phase menstrual cycle": "Early secretory"
+   },
+   {
+    "gsm": "GSM3738647",
+    "title": "M2_Endo_16",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage II",
+    "phase menstrual cycle": "Late secretory"
+   },
+   {
+    "gsm": "GSM3738648",
+    "title": "M2_Endo_18",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Early secretory"
+   },
+   {
+    "gsm": "GSM3738649",
+    "title": "M2_Endo_20",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage I",
+    "phase menstrual cycle": "Mid secretory"
+   },
+   {
+    "gsm": "GSM3738650",
+    "title": "M2_Endo_35",
+    "supp": [],
+    "tissue": "Endometrium",
+    "cell type": "M2 macrophages",
+    "disease state": "endometriosis",
+    "stage endometriosis": "Stage IV",
+    "phase menstrual cycle": "Mid secretory"
+   }
+  ],
+  "series_supp": [
+   "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130435/suppl/GSE130435_1904_processed_data_raw_counts_juliavallve.txt.gz"
+  ]
+ },
+ "GSE303150": {
+  "meta": [
+   {
+    "gsm": "GSM9118846",
+    "title": "No template control 01",
+    "supp": [
+     "GSM9118846_DSP-1001660011751-A-A01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118847",
+    "title": "SPCN351 Myometrium_near_endo",
+    "supp": [
+     "GSM9118847_DSP-1001660011751-A-A02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118848",
+    "title": "SPCN351 LE panCK",
+    "supp": [
+     "GSM9118848_DSP-1001660011751-A-A03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118849",
+    "title": "SPCN351 Functionalis CD45",
+    "supp": [
+     "GSM9118849_DSP-1001660011751-A-A04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118850",
+    "title": "SPCN351 Functionalis CD31",
+    "supp": [
+     "GSM9118850_DSP-1001660011751-A-A05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118851",
+    "title": "SPCN351 Functionalis stroma",
+    "supp": [
+     "GSM9118851_DSP-1001660011751-A-A06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118852",
+    "title": "SPCN351 Functionalis panCK",
+    "supp": [
+     "GSM9118852_DSP-1001660011751-A-A07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118853",
+    "title": "SPCN351 Basalis CD45",
+    "supp": [
+     "GSM9118853_DSP-1001660011751-A-A08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118854",
+    "title": "SPCN351 Basalis CD31",
+    "supp": [
+     "GSM9118854_DSP-1001660011751-A-A09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118855",
+    "title": "SPCN351 Basalis stroma",
+    "supp": [
+     "GSM9118855_DSP-1001660011751-A-A10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118856",
+    "title": "SPCN351 Basalis panCK",
+    "supp": [
+     "GSM9118856_DSP-1001660011751-A-A11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118857",
+    "title": "SPCN351 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118857_DSP-1001660011751-A-A12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118858",
+    "title": "LWB220063 Functionalis CD45",
+    "supp": [
+     "GSM9118858_DSP-1001660011751-A-B01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118859",
+    "title": "LWB220063 Functionalis CD31",
+    "supp": [
+     "GSM9118859_DSP-1001660011751-A-B02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118860",
+    "title": "LWB220063 Functionalis stroma",
+    "supp": [
+     "GSM9118860_DSP-1001660011751-A-B03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118861",
+    "title": "LWB220063 Functionalis panCK",
+    "supp": [
+     "GSM9118861_DSP-1001660011751-A-B04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118862",
+    "title": "SPCN351 Adenomyosis CD31",
+    "supp": [
+     "GSM9118862_DSP-1001660011751-A-B05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118863",
+    "title": "SPCN351 Adenomyosis stroma",
+    "supp": [
+     "GSM9118863_DSP-1001660011751-A-B06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118864",
+    "title": "SPCN351 Adenomyosis panCK",
+    "supp": [
+     "GSM9118864_DSP-1001660011751-A-B07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118865",
+    "title": "LWB220063 LE panCK 01",
+    "supp": [
+     "GSM9118865_DSP-1001660011751-A-B08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118866",
+    "title": "LWB220063 LE panCK 02",
+    "supp": [
+     "GSM9118866_DSP-1001660011751-A-B09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118867",
+    "title": "LWB220063 Basalis CD45",
+    "supp": [
+     "GSM9118867_DSP-1001660011751-A-B10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118868",
+    "title": "LWB220063 Basalis CD31",
+    "supp": [
+     "GSM9118868_DSP-1001660011751-A-B11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118869",
+    "title": "LWB220063 Basalis stroma",
+    "supp": [
+     "GSM9118869_DSP-1001660011751-A-B12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118870",
+    "title": "LWB220063 Basalis panCK",
+    "supp": [
+     "GSM9118870_DSP-1001660011751-A-C01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118871",
+    "title": "LWB220063 Myometrium_near_endo",
+    "supp": [
+     "GSM9118871_DSP-1001660011751-A-C02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118872",
+    "title": "LWB220063 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118872_DSP-1001660011751-A-C03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118873",
+    "title": "LWB220063 Adenomyosis CD31",
+    "supp": [
+     "GSM9118873_DSP-1001660011751-A-C04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118874",
+    "title": "LWB220063 Adenomyosis stroma",
+    "supp": [
+     "GSM9118874_DSP-1001660011751-A-C05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118875",
+    "title": "LWB220063 Adenomyosis panCK",
+    "supp": [
+     "GSM9118875_DSP-1001660011751-A-C06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118876",
+    "title": "SPCN277 LE panCK",
+    "supp": [
+     "GSM9118876_DSP-1001660011751-A-C07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118877",
+    "title": "SPCN044 LE panCK",
+    "supp": [
+     "GSM9118877_DSP-1001660011751-A-C08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118878",
+    "title": "SPCN044 Basalis panCK",
+    "supp": [
+     "GSM9118878_DSP-1001660011751-A-C09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118879",
+    "title": "SPCN044 Basalis CD45",
+    "supp": [
+     "GSM9118879_DSP-1001660011751-A-C10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118880",
+    "title": "SPCN044 Basalis CD31",
+    "supp": [
+     "GSM9118880_DSP-1001660011751-A-C11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118881",
+    "title": "SPCN044 Basalis stroma",
+    "supp": [
+     "GSM9118881_DSP-1001660011751-A-C12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118882",
+    "title": "SPCN044 Functionalis panCK",
+    "supp": [
+     "GSM9118882_DSP-1001660011751-A-D01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118883",
+    "title": "SPCN044 Functionalis CD45",
+    "supp": [
+     "GSM9118883_DSP-1001660011751-A-D02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118884",
+    "title": "SPCN044 Functionalis CD31",
+    "supp": [
+     "GSM9118884_DSP-1001660011751-A-D03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118885",
+    "title": "SPCN044 Functionalis stroma",
+    "supp": [
+     "GSM9118885_DSP-1001660011751-A-D04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118886",
+    "title": "SPCN044 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118886_DSP-1001660011751-A-D05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118887",
+    "title": "SPCN044 Adenomyosis panCK",
+    "supp": [
+     "GSM9118887_DSP-1001660011751-A-D06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118888",
+    "title": "SPCN044 Adenomyosis CD45",
+    "supp": [
+     "GSM9118888_DSP-1001660011751-A-D07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118889",
+    "title": "SPCN044 Adenomyosis CD31",
+    "supp": [
+     "GSM9118889_DSP-1001660011751-A-D08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118890",
+    "title": "SPCN044 Adenomyosis stroma",
+    "supp": [
+     "GSM9118890_DSP-1001660011751-A-D09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118891",
+    "title": "SPCN044 Myometrium_near_endo",
+    "supp": [
+     "GSM9118891_DSP-1001660011751-A-D10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118892",
+    "title": "SPCN277 Functionalis panCK",
+    "supp": [
+     "GSM9118892_DSP-1001660011751-A-D11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118893",
+    "title": "SPCN277 Functionalis CD45",
+    "supp": [
+     "GSM9118893_DSP-1001660011751-A-D12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118894",
+    "title": "SPCN277 Functionalis CD31",
+    "supp": [
+     "GSM9118894_DSP-1001660011751-A-E01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118895",
+    "title": "SPCN277 Functionalis stroma",
+    "supp": [
+     "GSM9118895_DSP-1001660011751-A-E02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118896",
+    "title": "SPCN277 Adenomyosis panCK",
+    "supp": [
+     "GSM9118896_DSP-1001660011751-A-E03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118897",
+    "title": "SPCN277 Adenomyosis CD45-01",
+    "supp": [
+     "GSM9118897_DSP-1001660011751-A-E04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118898",
+    "title": "SPCN277 Adenomyosis CD31",
+    "supp": [
+     "GSM9118898_DSP-1001660011751-A-E05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118899",
+    "title": "SPCN277 Adenomyosis stroma",
+    "supp": [
+     "GSM9118899_DSP-1001660011751-A-E06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118900",
+    "title": "SPCN277 Basalis panCK",
+    "supp": [
+     "GSM9118900_DSP-1001660011751-A-E07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118901",
+    "title": "SPCN277 Basalis CD45",
+    "supp": [
+     "GSM9118901_DSP-1001660011751-A-E08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118902",
+    "title": "SPCN277 Basalis CD31",
+    "supp": [
+     "GSM9118902_DSP-1001660011751-A-E09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118903",
+    "title": "SPCN277 Basalis stroma",
+    "supp": [
+     "GSM9118903_DSP-1001660011751-A-E10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118904",
+    "title": "SPCN277 Myometrium_near_endo",
+    "supp": [
+     "GSM9118904_DSP-1001660011751-A-E11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118905",
+    "title": "SPCN277 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118905_DSP-1001660011751-A-E12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118906",
+    "title": "SPCN277 Adenomyosis CD45-02",
+    "supp": [
+     "GSM9118906_DSP-1001660011751-A-F01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118907",
+    "title": "SPCE078 Basalis CD45-01",
+    "supp": [
+     "GSM9118907_DSP-1001660011751-A-F07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118908",
+    "title": "No template control 02",
+    "supp": [
+     "GSM9118908_DSP-1001660011750-B-A01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118909",
+    "title": "LWB210144 Basalis panCK",
+    "supp": [
+     "GSM9118909_DSP-1001660011750-B-A02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118910",
+    "title": "LWB210144 Basalis CD45",
+    "supp": [
+     "GSM9118910_DSP-1001660011750-B-A03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118911",
+    "title": "LWB210144 Basalis CD31",
+    "supp": [
+     "GSM9118911_DSP-1001660011750-B-A04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118912",
+    "title": "LWB210144 Basalis stroma",
+    "supp": [
+     "GSM9118912_DSP-1001660011750-B-A05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118913",
+    "title": "LWB210144 Functionalis panCK",
+    "supp": [
+     "GSM9118913_DSP-1001660011750-B-A06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118914",
+    "title": "LWB210144 Functionalis CD45",
+    "supp": [
+     "GSM9118914_DSP-1001660011750-B-A07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118915",
+    "title": "LWB210144 Functionalis CD31",
+    "supp": [
+     "GSM9118915_DSP-1001660011750-B-A08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118916",
+    "title": "LWB210144 Functionalis stroma",
+    "supp": [
+     "GSM9118916_DSP-1001660011750-B-A09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118917",
+    "title": "LWB210144 Adenomyosis panCK",
+    "supp": [
+     "GSM9118917_DSP-1001660011750-B-A10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118918",
+    "title": "LWB210144 Adenomyosis CD45",
+    "supp": [
+     "GSM9118918_DSP-1001660011750-B-A11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118919",
+    "title": "LWB210144 Adenomyosis CD31",
+    "supp": [
+     "GSM9118919_DSP-1001660011750-B-A12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118920",
+    "title": "LWB210144 Adenomyosis stroma",
+    "supp": [
+     "GSM9118920_DSP-1001660011750-B-B01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118921",
+    "title": "LWB210144 Myometrium_near_endo",
+    "supp": [
+     "GSM9118921_DSP-1001660011750-B-B02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118922",
+    "title": "LWB210144 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118922_DSP-1001660011750-B-B03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118923",
+    "title": "SPCN307 LE panCK",
+    "supp": [
+     "GSM9118923_DSP-1001660011750-B-B04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118924",
+    "title": "SPCN307 Functionalis panCK",
+    "supp": [
+     "GSM9118924_DSP-1001660011750-B-B05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118925",
+    "title": "SPCN307 Functionalis CD45",
+    "supp": [
+     "GSM9118925_DSP-1001660011750-B-B06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118926",
+    "title": "SPCN307 Functionalis stroma",
+    "supp": [
+     "GSM9118926_DSP-1001660011750-B-B07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118927",
+    "title": "SPCN307 Myometrium_near_endo",
+    "supp": [
+     "GSM9118927_DSP-1001660011750-B-B08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118928",
+    "title": "SPCN307 Basalis panCK",
+    "supp": [
+     "GSM9118928_DSP-1001660011750-B-B09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118929",
+    "title": "SPCN307 Basalis CD45",
+    "supp": [
+     "GSM9118929_DSP-1001660011750-B-B10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118930",
+    "title": "SPCN307 Basalis stroma",
+    "supp": [
+     "GSM9118930_DSP-1001660011750-B-B11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118931",
+    "title": "SPCN307 Adenomyosis CD45",
+    "supp": [
+     "GSM9118931_DSP-1001660011750-B-B12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118932",
+    "title": "SPCN307 Adenomyosis CD31",
+    "supp": [
+     "GSM9118932_DSP-1001660011750-B-C01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118933",
+    "title": "SPCN307 Adenomyosis stroma",
+    "supp": [
+     "GSM9118933_DSP-1001660011750-B-C02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118934",
+    "title": "SPCN307 Adenomyosis panCK",
+    "supp": [
+     "GSM9118934_DSP-1001660011750-B-C03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118935",
+    "title": "SPCN307 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118935_DSP-1001660011750-B-C04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118936",
+    "title": "SPCN035 Basalis cd45",
+    "supp": [
+     "GSM9118936_DSP-1001660011750-B-C05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118937",
+    "title": "SPCN035 Basalis CD31",
+    "supp": [
+     "GSM9118937_DSP-1001660011750-B-C06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118938",
+    "title": "SPCN035 Basalis panCK",
+    "supp": [
+     "GSM9118938_DSP-1001660011750-B-C07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118939",
+    "title": "SPCN035 Basalis stroma",
+    "supp": [
+     "GSM9118939_DSP-1001660011750-B-C08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118940",
+    "title": "SPCN035 Functionalis CD31",
+    "supp": [
+     "GSM9118940_DSP-1001660011750-B-C09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118941",
+    "title": "SPCN035 Functionalis panCK",
+    "supp": [
+     "GSM9118941_DSP-1001660011750-B-C10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118942",
+    "title": "SPCN035 Functionalis stroma",
+    "supp": [
+     "GSM9118942_DSP-1001660011750-B-C11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118943",
+    "title": "SPCN035 Myometrium_near_endo",
+    "supp": [
+     "GSM9118943_DSP-1001660011750-B-C12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118944",
+    "title": "SPCN035 Adenomyosis CD45",
+    "supp": [
+     "GSM9118944_DSP-1001660011750-B-D01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118945",
+    "title": "SPCN035 Adenomyosis CD31",
+    "supp": [
+     "GSM9118945_DSP-1001660011750-B-D02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118946",
+    "title": "SPCN035 Adenomyosis panCK",
+    "supp": [
+     "GSM9118946_DSP-1001660011750-B-D03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118947",
+    "title": "SPCN035 Adenomyosis stroma",
+    "supp": [
+     "GSM9118947_DSP-1001660011750-B-D04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118948",
+    "title": "SPCN035 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118948_DSP-1001660011750-B-D05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118949",
+    "title": "SPCN365 Myometrium_near_endo",
+    "supp": [
+     "GSM9118949_DSP-1001660011750-B-D06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118950",
+    "title": "SPCN365 LE panCK",
+    "supp": [
+     "GSM9118950_DSP-1001660011750-B-D07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118951",
+    "title": "SPCN365 Functionalis CD45",
+    "supp": [
+     "GSM9118951_DSP-1001660011750-B-D08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118952",
+    "title": "SPCN365 Functionalis CD31",
+    "supp": [
+     "GSM9118952_DSP-1001660011750-B-D09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118953",
+    "title": "SPCN365 Functionalis panCK",
+    "supp": [
+     "GSM9118953_DSP-1001660011750-B-D10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118954",
+    "title": "SPCN365 Functionalis stroma",
+    "supp": [
+     "GSM9118954_DSP-1001660011750-B-D11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118955",
+    "title": "SPCN365 Basalis cd45",
+    "supp": [
+     "GSM9118955_DSP-1001660011750-B-D12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118956",
+    "title": "SPCN365 Basalis CD31",
+    "supp": [
+     "GSM9118956_DSP-1001660011750-B-E01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118957",
+    "title": "SPCN365 Basalis panCK",
+    "supp": [
+     "GSM9118957_DSP-1001660011750-B-E02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118958",
+    "title": "SPCN365 Basalis stroma",
+    "supp": [
+     "GSM9118958_DSP-1001660011750-B-E03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118959",
+    "title": "SPCN365 Adenomyosis CD45",
+    "supp": [
+     "GSM9118959_DSP-1001660011750-B-E04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118960",
+    "title": "SPCN365 Adenomyosis panCK",
+    "supp": [
+     "GSM9118960_DSP-1001660011750-B-E05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118961",
+    "title": "SPCN365 Adenomyosis stroma",
+    "supp": [
+     "GSM9118961_DSP-1001660011750-B-E06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118962",
+    "title": "SPCN365 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118962_DSP-1001660011750-B-E07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118963",
+    "title": "SPCE078 LE panCK",
+    "supp": [
+     "GSM9118963_DSP-1001660011750-B-E08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118964",
+    "title": "SPCE078 Myometrium_near_endo",
+    "supp": [
+     "GSM9118964_DSP-1001660011750-B-E09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118965",
+    "title": "SPCE078 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118965_DSP-1001660011750-B-E10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118966",
+    "title": "SPCE078 Basalis CD45-02",
+    "supp": [
+     "GSM9118966_DSP-1001660011750-B-E11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118967",
+    "title": "SPCE078 Basalis panCK",
+    "supp": [
+     "GSM9118967_DSP-1001660011750-B-E12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118968",
+    "title": "SPCE078 Basalis stroma",
+    "supp": [
+     "GSM9118968_DSP-1001660011750-B-F01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118969",
+    "title": "SPCE078 Functionalis CD45 01",
+    "supp": [
+     "GSM9118969_DSP-1001660011750-B-F02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118970",
+    "title": "SPCE078 Functionalis CD45 02",
+    "supp": [
+     "GSM9118970_DSP-1001660011750-B-F03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118971",
+    "title": "SPCE078 Functionalis panCK",
+    "supp": [
+     "GSM9118971_DSP-1001660011750-B-F04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118972",
+    "title": "SPCE078 Functionalis stroma",
+    "supp": [
+     "GSM9118972_DSP-1001660011750-B-F05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118973",
+    "title": "SPCE078 Adenomyosis panCK",
+    "supp": [
+     "GSM9118973_DSP-1001660011750-B-F06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118974",
+    "title": "SPCE078 Adenomyosis stroma",
+    "supp": [
+     "GSM9118974_DSP-1001660011750-B-F07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118975",
+    "title": "SPCN332 LE panCK",
+    "supp": [
+     "GSM9118975_DSP-1001660011750-B-F08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118976",
+    "title": "SPCN332 Basalis CD45",
+    "supp": [
+     "GSM9118976_DSP-1001660011750-B-F09.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118977",
+    "title": "SPCN332 Basalis panCK",
+    "supp": [
+     "GSM9118977_DSP-1001660011750-B-F10.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118978",
+    "title": "SPCN332 Basalis stroma",
+    "supp": [
+     "GSM9118978_DSP-1001660011750-B-F11.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118979",
+    "title": "SPCN332 Myometrium_near_endo",
+    "supp": [
+     "GSM9118979_DSP-1001660011750-B-F12.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118980",
+    "title": "SPCN332 Adenomyosis CD45",
+    "supp": [
+     "GSM9118980_DSP-1001660011750-B-G01.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118981",
+    "title": "SPCN332 Adenomyosis panCK",
+    "supp": [
+     "GSM9118981_DSP-1001660011750-B-G02.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118982",
+    "title": "SPCN332 Adenomyosis stroma",
+    "supp": [
+     "GSM9118982_DSP-1001660011750-B-G03.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118983",
+    "title": "SPCN332 Myometrium_near_adeno",
+    "supp": [
+     "GSM9118983_DSP-1001660011750-B-G04.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118984",
+    "title": "SPCN332 Functionalis CD45",
+    "supp": [
+     "GSM9118984_DSP-1001660011750-B-G05.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118985",
+    "title": "SPCN332 Functionalis CD31",
+    "supp": [
+     "GSM9118985_DSP-1001660011750-B-G06.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118986",
+    "title": "SPCN332 Functionalis panCK",
+    "supp": [
+     "GSM9118986_DSP-1001660011750-B-G07.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   },
+   {
+    "gsm": "GSM9118987",
+    "title": "SPCN332 Functionalis stroma",
+    "supp": [
+     "GSM9118987_DSP-1001660011750-B-G08.dcc.gz"
+    ],
+    "tissue": "Uterus"
+   }
+  ],
+  "series_supp": [
+   "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303150/suppl/GSE303150_Hs_R_NGS_WTA_v1.0.pkc.gz",
+   "ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303150/suppl/GSE303150_RAW.tar"
+  ]
+ }
+}

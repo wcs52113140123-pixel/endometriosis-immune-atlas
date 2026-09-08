@@ -1,0 +1,525 @@
+dataset_id,tissue,assay,susp,disease,n_ctrl,n_case,cells
+cff99df2-4904-44f7-9173-ff837f95606e,brain,10x 3' v3,nucleus,Alzheimer disease,7,14,230350
+215ede73-4f67-4a72-b77e-9c3b077b6dfc,brain,10x 3' v3,nucleus,Alzheimer disease,7,14,146712
+cff99df2-4904-44f7-9173-ff837f95606e,brain,Drop-seq,nucleus,Alzheimer disease,10,27,132305
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v3,nucleus,Alzheimer disease,8,10,116332
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v2,nucleus,Alzheimer disease,10,10,100698
+215ede73-4f67-4a72-b77e-9c3b077b6dfc,brain,Drop-seq,nucleus,Alzheimer disease,10,27,98040
+85c60876-7f35-40c5-a256-7808d84c6ba5,brain,10x 3' v2,cell,Alzheimer disease,4,8,73455
+6c600df6-ddca-4628-a8bb-1d6de1e3f9b4,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,63608
+cff99df2-4904-44f7-9173-ff837f95606e,brain,10x 3' v2,nucleus,Alzheimer disease,3,5,61873
+0ecea697-0f69-4d40-88e1-7f854e17e2b3,brain,10x 3' v3,nucleus,Alzheimer disease,7,14,44666
+2727d83a-0af0-443a-bff8-58dc7028289a,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,42528
+215ede73-4f67-4a72-b77e-9c3b077b6dfc,brain,10x 3' v2,nucleus,Alzheimer disease,3,5,38178
+203025fe-fa99-4d57-81da-458ed8f0c334,brain,10x multiome,nucleus,Alzheimer disease,10,10,37007
+0ecea697-0f69-4d40-88e1-7f854e17e2b3,brain,Drop-seq,nucleus,Alzheimer disease,10,27,22397
+9813a1d4-d107-459e-9b2e-7687be935f69,brain,10x 3' v2,cell,Alzheimer disease,4,8,16987
+873ff933-4fda-4936-9a70-67df11af90ac,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,15833
+24066994-8183-488d-b037-ef6bb524af39,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,15772
+0ecea697-0f69-4d40-88e1-7f854e17e2b3,brain,10x 3' v2,nucleus,Alzheimer disease,3,5,12231
+cd77258f-b08b-4c89-b93f-6e6f146b1a4d,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,8362
+f9ad5649-f372-43e1-a3a8-423383e5a8a2,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,8168
+1492eb6b-7d50-4c4d-94ac-c801a7d5555c,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,7506
+b94e3bdf-a385-49cc-b312-7a63cc28b77a,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,5970
+9f1049ac-f8b7-45ad-8e31-6e96c3e5058f,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,5572
+06b91002-4d3d-4d2e-8484-20c3b31e232c,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,5500
+75a881cf-5d88-46e2-bf9b-97e5cbc1bd56,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,5331
+bdacc907-7c26-419f-8808-969eab3ca2e8,brain,10x 3' v2,nucleus,Alzheimer disease,3,7,3799
+67b6b9ac-b841-42ce-b2d4-ed2ec12327bd,lymph node,10x multiome,nucleus,B-cell non-Hodgkin lymphoma,15,213,598289
+965386e9-1e4f-466d-bf59-ebdca4b66b9b,bone marrow,10x 5' v1,cell,B-cell non-Hodgkin lymphoma,5,17,92676
+7bb64315-9e5a-41b9-9235-59acf9642a3e,esophagus,10x 3' v2,cell,Barrett esophagus,11,4,30139
+e5233a94-9e43-418c-8209-6f1400c31530,esophagus,10x 3' v2,cell,Barrett esophagus,11,4,30139
+9b188f26-c8e1-4a78-af15-622a35a371fc,esophagus,10x 3' v2,cell,Barrett esophagus,7,4,1681
+63bb6359-3945-4658-92eb-3072419953e4,esophagus,10x 3' v2,cell,Barrett esophagus,11,4,1503
+faed4f71-6b50-4fc7-bd1c-8f385dccfdce,esophagus,10x 3' v2,cell,Barrett esophagus,10,4,863
+94423ec1-21f8-40e8-b5c9-c3ea82350ca4,esophagus,10x 3' v2,cell,Barrett esophagus,11,4,616
+03d5794d-cde9-4769-a1a9-b3899d2b1d87,esophagus,10x 3' v2,cell,Barrett esophagus,7,4,568
+9dbab10c-118d-496b-966a-67f1763a6b7d,blood,10x 5' v2,cell,COVID-19,25,136,1288001
+ebc2e1ff-c8f9-466a-acf4-9d291afaf8b3,blood,10x 5' v1,cell,COVID-19,10,102,816915
+c7775e88-49bf-4ba2-a03b-93f00447c958,blood,10x 3' transcription profiling,cell,COVID-19,29,86,632209
+01ad3cd7-3929-4654-84c0-6db05bd5fd59,blood,10x 5' transcription profiling,cell,COVID-19,11,54,521099
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 5' v1,cell,COVID-19,56,34,355703
+2a498ace-872a-4935-984b-1afa70fd9886,blood,10x 5' v1,cell,COVID-19,35,25,324996
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v3,cell,COVID-19,24,6,259017
+21d3e683-80a4-4d9b-bc89-ebb2df513dde,blood,10x 5' v1,cell,COVID-19,13,33,246964
+edc8d3fe-153c-4e3d-8be0-2108d30f8d70,nose,10x 5' v1,cell,COVID-19,42,27,198232
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v3,nucleus,COVID-19,10,16,158660
+96a3f64b-0ee9-40d8-91e9-813ce38261c9,blood,10x 3' v3,cell,COVID-19,11,33,154098
+30cd5311-6c09-46c9-94f1-71fe4b91813c,blood,10x 5' v1,cell,COVID-19,13,33,125117
+242c6e7f-9016-4048-af70-d631f5eea188,blood,10x 5' v1,cell,COVID-19,5,5,123247
+d8da613f-e681-4c69-b463-e94f5e66847f,lung,10x 3' v3,nucleus,COVID-19,7,20,116313
+bc2a7b3d-f04e-477e-96c9-9d5367d5425c,blood,10x 3' v3,cell,COVID-19,11,33,77531
+bc260987-8ee5-4b6e-8773-72805166b3f7,blood,10x 5' v1,cell,COVID-19,5,5,62584
+59b69042-47c2-47fd-ad03-d21beb99818f,blood,10x 3' v3,cell,COVID-19,5,7,49139
+de2c780c-1747-40bd-9ccf-9588ec186cee,blood,10x 3' v3,cell,COVID-19,4,8,49053
+456e8b9b-f872-488b-871d-94534090a865,blood,Seq-Well,cell,COVID-19,6,7,44721
+4c4cd77c-8fee-4836-9145-16562a8782fe,blood,10x 3' v3,cell,COVID-19,4,8,43512
+055ca631-6ffb-40de-815e-b931e10718c0,blood,Seq-Well,cell,COVID-19,6,7,41305
+96a3f64b-0ee9-40d8-91e9-813ce38261c9,blood,Seq-Well,cell,COVID-19,6,7,41305
+edc8d3fe-153c-4e3d-8be0-2108d30f8d70,respiratory system,10x 5' v1,cell,COVID-19,17,6,38109
+db0752b9-f20e-40b8-8997-992f3ae0bb2e,blood,10x 3' v3,cell,COVID-19,11,33,33890
+13b61a7d-5605-4948-ba48-02c588960143,digestive system,Seq-Well S3,cell,COVID-19,15,35,26947
+1a434263-2aa5-4fd9-a1f3-1c4a2a8fb771,blood,10x 5' v1,cell,COVID-19,5,5,25374
+bc2a7b3d-f04e-477e-96c9-9d5367d5425c,blood,Seq-Well,cell,COVID-19,6,7,21897
+693ae928-96ba-47de-b9d9-1321c675bfcd,blood,10x 5' v1,cell,COVID-19,5,5,21088
+d9b4bc69-ed90-4f5f-99b2-61b0681ba436,blood,10x 3' v3,cell,COVID-19,11,33,13918
+1a7e99fe-d5b6-44d7-aa50-c6ef6ab29761,blood,10x 5' v1,cell,COVID-19,5,5,13033
+db0752b9-f20e-40b8-8997-992f3ae0bb2e,blood,Seq-Well,cell,COVID-19,6,7,8229
+e763ed0d-0e5a-4b8e-9514-6da3d9e47956,blood,10x 3' v3,cell,COVID-19,11,33,6841
+d9b4bc69-ed90-4f5f-99b2-61b0681ba436,blood,Seq-Well,cell,COVID-19,6,7,4360
+e763ed0d-0e5a-4b8e-9514-6da3d9e47956,blood,Seq-Well,cell,COVID-19,3,7,181
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,small intestine,10x 3' v2,cell,Crohn disease,52,24,390590
+e6aaf5a4-16e9-4ea6-9733-4eafd4e473d3,small intestine,10x 3' v2,cell,Crohn disease,46,19,313394
+80a2c5b6-02e7-4fc0-9f12-179f5247c1bc,small intestine,10x 3' v2,cell,Crohn disease,20,7,147580
+a37f857c-779f-464e-9310-3db43a1811e7,small intestine,10x 3' v3,cell,Crohn disease,30,7,134256
+07574da2-6bd3-4708-a04d-27d95c009f4e,small intestine,10x 3' v2,cell,Crohn disease,33,24,115927
+fe4b89d5-461e-440c-a5a8-621b37b122c0,small intestine,10x 3' v2,cell,Crohn disease,6,5,81976
+dc6b1e06-3880-43f6-8de8-ef9cb5e7ef5e,small intestine,10x 3' v2,cell,Crohn disease,41,19,79454
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,small intestine,10x 3' v3,cell,Crohn disease,32,7,78749
+fe4b89d5-461e-440c-a5a8-621b37b122c0,small intestine,10x 3' v3,cell,Crohn disease,30,7,72160
+07574da2-6bd3-4708-a04d-27d95c009f4e,small intestine,10x 3' v3,cell,Crohn disease,30,7,70048
+a37f857c-779f-464e-9310-3db43a1811e7,small intestine,10x 3' v2,cell,Crohn disease,6,5,66816
+0f4865d5-8000-4f68-8ac7-f5efea9e5e70,small intestine,10x 3' v2,cell,Crohn disease,6,5,60088
+518d9049-2a76-44f8-8abc-1e2b59ab5ba1,colon,10x 3' v3,cell,Crohn disease,13,3,58416
+6d50d513-c158-4b0f-b1df-b54c8572163b,small intestine,10x 3' v2,cell,Crohn disease,27,19,38731
+1d54fb17-90d5-47ca-ad8d-22ab63cb5c1f,small intestine,10x 3' v2,cell,Crohn disease,37,18,36319
+5ce42b38-d867-487f-9b40-e8bb00b21d0b,colon,10x 3' v3,cell,Crohn disease,13,3,29307
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,colon,10x 3' v3,cell,Crohn disease,14,3,28338
+8e47ed12-c658-4252-b126-381df8d52a3d,small intestine,10x 3' v2,cell,Crohn disease,8,7,22502
+0f4865d5-8000-4f68-8ac7-f5efea9e5e70,small intestine,10x 3' v3,cell,Crohn disease,28,7,15607
+40a0ade8-6067-4e22-9224-4d3c5e9bfc0d,small intestine,10x 3' v2,cell,Crohn disease,44,19,12487
+9c235282-2b6f-4f74-8f16-7d3ac1b51371,small intestine,10x 3' v2,cell,Crohn disease,44,19,12455
+6cf3634d-e911-44ad-bf52-c747a9af3c01,colon,10x 3' v3,cell,Crohn disease,13,3,10185
+7be23e52-e357-45d6-861f-31166913104e,small intestine,10x 3' v2,cell,Crohn disease,27,9,9856
+278eac3f-a5a4-4d0a-9d83-0ca7efc67e16,small intestine,10x 3' v2,cell,Crohn disease,37,17,7520
+ef7bb7f0-234d-459f-b613-b37cc7a4c70f,small intestine,10x 3' v2,cell,Crohn disease,22,17,6925
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,Lewy body dementia,261,11,1102575
+5829c7ba-697f-418e-8b98-d605b192dc48,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,112070
+251b1a7e-d050-4486-8d50-4c2619eb0f46,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,57074
+f8d8b443-bca6-4c3c-9042-669dfb7f8030,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,23362
+07760522-707a-4a1c-8891-dbd1226d6b27,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,21550
+2856d06c-0ff9-4e01-bfc9-202b74d0b60f,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,19333
+f5be4b96-f5a3-4c3d-84ac-6f69daf744d5,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,9769
+4dd1cd23-fc4d-4fd1-9709-602540f3ca6f,brain,10x 3' v3,nucleus,Lewy body dementia,8,4,8981
+d3cb449b-c2b1-4b50-a7f1-21203535fe61,brain,10x 3' v3,nucleus,Parkinson disease,24,73,2096155
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,Parkinson disease,261,7,1073734
+5829c7ba-697f-418e-8b98-d605b192dc48,brain,10x 3' v3,nucleus,Parkinson disease,8,6,143582
+251b1a7e-d050-4486-8d50-4c2619eb0f46,brain,10x 3' v3,nucleus,Parkinson disease,8,6,81265
+07760522-707a-4a1c-8891-dbd1226d6b27,brain,10x 3' v3,nucleus,Parkinson disease,8,6,26535
+f8d8b443-bca6-4c3c-9042-669dfb7f8030,brain,10x 3' v3,nucleus,Parkinson disease,8,6,26434
+2856d06c-0ff9-4e01-bfc9-202b74d0b60f,brain,10x 3' v3,nucleus,Parkinson disease,8,6,18399
+f5be4b96-f5a3-4c3d-84ac-6f69daf744d5,brain,10x 3' v3,nucleus,Parkinson disease,8,6,13226
+4dd1cd23-fc4d-4fd1-9709-602540f3ca6f,brain,10x 3' v3,nucleus,Parkinson disease,8,6,10576
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v2,nucleus,Pick disease,10,8,99641
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v3,nucleus,Pick disease,8,9,97196
+3966ba97-beb8-4d0b-9954-d3775cd2cd61,placenta,10x 3' v3,cell,Plasmodium malariae malaria,20,8,102643
+df1edb87-e512-43ae-b5f4-cb179cfc2bb4,exocrine gland,10x 3' v3,cell,Sjogren syndrome,13,8,62396
+a12ccb9b-4fbe-457d-8590-ac78053259ef,kidney,10x 3' v3,nucleus,acute kidney failure,25,16,176993
+0b75c598-0893-4216-afe8-5414cab7739d,kidney,10x 3' v3,nucleus,acute kidney failure,13,10,137909
+07854d9c-5375-4a9b-ac34-fa919d3c3686,kidney,10x 3' v3,nucleus,acute kidney failure,13,6,118334
+dea717d4-7bc0-4e46-950f-fd7e1cc8df7d,kidney,10x 3' v3,cell,acute kidney failure,26,14,94547
+32b9bdce-2481-4c85-ba1b-6ad5fcea844c,kidney,10x 3' v3,cell,acute kidney failure,18,12,55488
+0b75c598-0893-4216-afe8-5414cab7739d,kidney,10x 3' v3,cell,acute kidney failure,18,12,54538
+98f5d518-1e60-4307-b732-ab045cd3cbc2,brain,10x 3' v3,nucleus,amyotrophic lateral sclerosis,5,10,124188
+0bc7235a-ae5a-479d-a487-510435377e55,brain,10x 3' v3,nucleus,amyotrophic lateral sclerosis,5,10,83480
+98f5d518-1e60-4307-b732-ab045cd3cbc2,brain,10x 3' v3,nucleus,amyotrophic lateral sclerosis 26 with or without frontotemporal dementia,5,6,66900
+0bc7235a-ae5a-479d-a487-510435377e55,brain,10x 3' v3,nucleus,amyotrophic lateral sclerosis 26 with or without frontotemporal dementia,5,6,56597
+f14bc322-1322-4184-8d16-409557525ea5,lung,10x 5' v2,cell,anthracosis,42,3,116073
+65badd7a-9262-4fd1-9ce2-eb5dc0ca8039,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,305105
+f7995301-7551-4e1d-8396-ffe3c9497ace,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,123554
+1252c5fb-945f-42d6-b1a8-8a3bd864384b,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,64703
+ed2b673b-0279-454a-998c-3eec361edf54,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,45075
+1062c0f2-2a44-4cf9-a7c8-b5ed58b4728d,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,28174
+9434b020-de42-43eb-bcc4-542b2be69015,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,15654
+0fdb6122-4600-40f0-a703-2da47cc7080d,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,6100
+83b5e943-a1d5-4164-b3f2-f7a37f01b524,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,12,8,2680
+bdf69f8d-5a96-4d6f-a9f5-9ee0e33597b7,heart,10x 3' v3,nucleus,arrhythmogenic right ventricular cardiomyopathy,10,7,1220
+4442d412-91cb-4261-acca-8adf5fa04c11,brain,10x 3' v3,nucleus,atherosclerosis,259,23,1293813
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,atherosclerosis,146,24,864497
+87a06a2a-16c6-42f7-af1b-529fad431051,heart,10x 3' v3,cell,atrial fibrillation || mitral valve insufficiency,5,7,41279
+e7c5ba7e-4be0-4696-af50-a07d0dc7aac5,skin of body,10x 3' v3,cell,basal cell carcinoma,14,8,131627
+14363b6e-3428-45b0-8704-10fd5d6316df,skin of body,10x 3' v3,cell,basal cell carcinoma,14,8,3245
+574e9f9e-f8b4-41ef-bf19-89a9964fd9c7,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,51445
+dd018fc0-8da7-4033-a2ba-6b47de8ebb4f,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,34063
+8b2e5453-faf7-46ea-9073-aea69b283cb7,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,28847
+88c483bf-477d-4be5-90d3-4fb101dd601f,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,25186
+d3a83885-5198-4b04-8314-b753b66ef9a8,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,8823
+5ba85070-a41c-4184-9c18-cf34c3fd0f62,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,4602
+df287f8d-f50d-4620-ab96-489d559e6adc,prostate gland,10x 3' v2,cell,benign prostatic hyperplasia,3,3,1295
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,bipolar I disorder,146,32,875177
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,bipolar I disorder || anorexia nervosa,146,3,730594
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,bipolar I disorder || atherosclerosis,146,6,759114
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,bipolar I disorder || obsessive-compulsive disorder,146,4,741768
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,bipolar II disorder,146,5,749468
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,brain neoplasm,261,3,1056865
+b617ee1b-f8c8-4de9-b82b-e803ab93550d,breast,inDrop,cell,breast cancer,5,8,38219
+d68a8b48-abf0-4bd5-8834-155d34ec448a,lung,10x 3' v3,nucleus,bronchopulmonary dysplasia,11,13,271381
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,small intestine,10x 5' v1,cell,celiac disease,10,3,8506
+07574da2-6bd3-4708-a04d-27d95c009f4e,small intestine,10x 5' v1,cell,celiac disease,10,3,7339
+a12ccb9b-4fbe-457d-8590-ac78053259ef,kidney,10x 3' v3,nucleus,chronic kidney disease,25,39,250440
+dea717d4-7bc0-4e46-950f-fd7e1cc8df7d,kidney,10x 3' v3,cell,chronic kidney disease,26,37,174010
+0b75c598-0893-4216-afe8-5414cab7739d,kidney,10x 3' v3,nucleus,chronic kidney disease,13,13,149896
+07854d9c-5375-4a9b-ac34-fa919d3c3686,kidney,10x 3' v3,nucleus,chronic kidney disease,13,10,141980
+32b9bdce-2481-4c85-ba1b-6ad5fcea844c,kidney,10x 3' v3,cell,chronic kidney disease,18,15,72353
+0b75c598-0893-4216-afe8-5414cab7739d,kidney,10x 3' v3,cell,chronic kidney disease,18,15,70010
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v2,cell,chronic obstructive pulmonary disease,74,18,422412
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,10x 3' v2,cell,chronic obstructive pulmonary disease,41,18,211743
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,10x 3' v2,cell,chronic obstructive pulmonary disease,41,18,211743
+b61a921b-7fa3-4b42-b455-aaaf32447920,respiratory system,10x 3' v3,cell,chronic obstructive pulmonary disease,9,5,82572
+8fbed309-d3d4-441b-b3ff-e2dcbcec2d35,lung,10x 3' v3,cell,chronic obstructive pulmonary disease,7,9,57918
+9f222629-9e39-47d0-b83f-e08d610c7479,nose,Seq-Well,cell,chronic rhinitis,3,15,36740
+19e46756-9100-4e01-8b0e-23b557558a4c,blood,10x 3' v3,cell,clonal hematopoiesis,7,17,66985
+203025fe-fa99-4d57-81da-458ed8f0c334,brain,10x multiome,nucleus,cognitive disorder,10,10,49627
+16023185-de21-4c0d-a9c8-73abdd52d142,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,266604
+9bf9dd7d-e23e-49ee-95cc-11df3bd61769,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,128901
+81c2d711-7fd5-48f0-bc74-57229f3c9554,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,125027
+16023185-de21-4c0d-a9c8-73abdd52d142,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,103511
+7674f8f4-7200-4f08-8412-eb114016a66f,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,55177
+9bf9dd7d-e23e-49ee-95cc-11df3bd61769,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,53647
+81c2d711-7fd5-48f0-bc74-57229f3c9554,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,43268
+1e517707-295a-408d-809c-5b1ed4dbeda4,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,27808
+7274e79f-30b2-4b4d-bb53-fad600a55aff,large intestine,10x 3' v2,cell,colon adenocarcinoma,31,41,26756
+7674f8f4-7200-4f08-8412-eb114016a66f,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,21788
+9a7c80a5-c81a-4c94-8fc8-2517dfb8c9c3,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,43,19160
+1e517707-295a-408d-809c-5b1ed4dbeda4,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,14306
+7274e79f-30b2-4b4d-bb53-fad600a55aff,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,19,11053
+f89af62b-4059-4fb9-8bc0-e8e189c4c340,large intestine,10x 3' v2,cell,colon adenocarcinoma,32,42,9549
+9a7c80a5-c81a-4c94-8fc8-2517dfb8c9c3,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,6500
+f89af62b-4059-4fb9-8bc0-e8e189c4c340,large intestine,10x 3' v3,cell,colon adenocarcinoma,5,20,5889
+f5af510b-86d5-4f98-946f-b2d6d3e28de9,large intestine,10x 3' v2,cell,colon adenocarcinoma,27,41,3127
+f5af510b-86d5-4f98-946f-b2d6d3e28de9,large intestine,10x 3' v3,cell,colon adenocarcinoma,4,18,707
+d6dfdef1-406d-4efb-808c-3c5eddbfe0cb,colon,TruDrop,cell,colon sessile serrated adenoma/polyp,17,4,35118
+6a270451-b4d9-43e0-aa89-e33aac1ac74b,colon,TruDrop,cell,colon sessile serrated adenoma/polyp,36,5,4011
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,colon,10x 3' v2,cell,colorectal cancer,52,8,210842
+e6aaf5a4-16e9-4ea6-9733-4eafd4e473d3,colon,10x 3' v2,cell,colorectal cancer,42,8,178231
+dc6b1e06-3880-43f6-8de8-ef9cb5e7ef5e,colon,10x 3' v2,cell,colorectal cancer,35,8,43480
+763d1d88-b38d-4ab0-b00f-72df816b4b08,colon,10x 3' v2,cell,colorectal cancer,25,8,36157
+d6dfdef1-406d-4efb-808c-3c5eddbfe0cb,colon,TruDrop,cell,colorectal cancer,17,5,34180
+1d54fb17-90d5-47ca-ad8d-22ab63cb5c1f,colon,10x 3' v2,cell,colorectal cancer,29,8,24857
+829a3cd1-a466-49f1-b2e9-d3f6b7f392e2,colon,10x 3' v3,cell,colorectal cancer,17,21,23420
+b617ee1b-f8c8-4de9-b82b-e803ab93550d,large intestine,10x 3' v2,cell,colorectal cancer,7,7,18837
+ef7bb7f0-234d-459f-b613-b37cc7a4c70f,colon,10x 3' v2,cell,colorectal cancer,24,8,16018
+5ee552f5-834c-4766-92c8-5a09dfd45767,colon,10x 3' v3,cell,colorectal cancer,17,18,12357
+829a3cd1-a466-49f1-b2e9-d3f6b7f392e2,large intestine,10x 3' v3,cell,colorectal cancer,4,6,11535
+4b5afdf9-9299-4655-9218-c9f67b3776e7,colon,10x 3' v3,cell,colorectal cancer,8,8,10599
+5ee552f5-834c-4766-92c8-5a09dfd45767,large intestine,10x 3' v3,cell,colorectal cancer,4,5,8669
+40a0ade8-6067-4e22-9224-4d3c5e9bfc0d,colon,10x 3' v2,cell,colorectal cancer,37,8,7462
+9c235282-2b6f-4f74-8f16-7d3ac1b51371,colon,10x 3' v2,cell,colorectal cancer,37,8,7443
+6a270451-b4d9-43e0-aa89-e33aac1ac74b,colon,TruDrop,cell,colorectal cancer,36,6,4953
+7be23e52-e357-45d6-861f-31166913104e,colon,10x 3' v2,cell,colorectal cancer,30,7,4725
+278eac3f-a5a4-4d0a-9d83-0ca7efc67e16,colon,10x 3' v2,cell,colorectal cancer,33,8,3631
+e3ed2ba4-edf5-40ac-8750-8a417ad1eefe,liver,BD Rhapsody Whole Transcriptome Analysis,cell,colorectal carcinoma || metastatic malignant neoplasm,6,6,75104
+3c75a463-6a87-4132-83a8-c3002624394d,blood,10x 5' v1,cell,common variable immunodeficiency,8,10,95064
+f1606894-59df-4794-a37f-baa7c6fb6de1,heart,10x 3' v3,nucleus,coronary artery disorder,29,3,239070
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v2,cell,cystic fibrosis,74,10,362223
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,Drop-seq,cell,cystic fibrosis,20,12,40361
+e522d2cd-7927-4e59-a4ed-064009569279,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,1821725
+e12eb8a9-5e8b-4b59-90c8-77d29a811c00,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,743615
+b90d4a42-714c-4590-b548-6e75e6c081e8,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,406730
+24905cd6-203f-4a02-ae7b-cfb4464b2000,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,327919
+ed78c6b7-cb40-4ebc-b55f-40bc99ba1b5d,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,160632
+514329cb-2f22-4e7b-b789-75ea1a1e0067,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,148605
+dade16db-a38b-41f5-95c8-7ec0238d17fc,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,23287
+81ffdcd6-3f04-40bc-8bb0-9748f4ffe576,blood,10x 3' v3,cell,cytomegalovirus infection,63,45,10937
+6f7fd0f1-a2ed-4ff1-80d3-33dde731cbc3,brain,10x 3' v3,nucleus,dementia,44,39,1309414
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia,261,58,1299361
+c2876b1b-06d8-4d96-a56b-5304f815b99a,brain,10x 3' v3,nucleus,dementia,47,42,1226855
+646e3e87-e46b-4b12-85b5-8d8589e26088,brain,10x 3' v3,nucleus,dementia,44,39,317116
+b74100ea-1a1a-486a-9cad-70ae44150935,brain,10x 3' v3,nucleus,dementia,47,42,289193
+c2876b1b-06d8-4d96-a56b-5304f815b99a,brain,10x multiome,nucleus,dementia,16,12,151356
+ac0fee7e-0999-4319-b244-20278e1ff2fb,brain,10x 3' v3,nucleus,dementia,47,42,148532
+9940f951-3dc0-4579-bbb2-2392786e59a3,brain,10x 3' v3,nucleus,dementia,44,39,136076
+605b89b1-c474-4180-8c0b-88afb5920991,brain,10x 3' v3,nucleus,dementia,47,42,113298
+04c94a7d-1133-42c9-bb48-c697bd302a8d,brain,10x 3' v3,nucleus,dementia,44,39,109618
+d2fc9880-e6d3-4922-af5c-61f4f517adfa,brain,10x 3' v3,nucleus,dementia,47,42,99369
+44c83972-e5d2-4858-ac58-2df9f4bf564b,brain,10x 3' v3,nucleus,dementia,44,39,97173
+53bc5729-6202-4351-bc99-1f36139e9dc4,brain,10x 3' v3,nucleus,dementia,44,39,95014
+a0d173dd-bb10-4d13-8b9a-e13a4ee83c8c,brain,10x 3' v3,nucleus,dementia,47,42,94828
+6f7fd0f1-a2ed-4ff1-80d3-33dde731cbc3,brain,10x multiome,nucleus,dementia,13,8,86187
+74d584f0-74fc-482e-b944-e76f29c1ab85,brain,10x 3' v3,nucleus,dementia,44,39,82936
+d87f3f91-dca4-494b-8993-c4e3008a8fa5,brain,10x 3' v3,nucleus,dementia,47,42,81879
+9ff9f9ba-016b-4cbb-8899-45dc20860b8b,brain,10x 3' v3,nucleus,dementia,44,39,76195
+03181d87-4769-41e7-8c39-d9a81835f0d2,brain,10x 3' v3,nucleus,dementia,44,39,71545
+5097d77d-08fa-4105-a18f-4072d61522a4,brain,10x 3' v3,nucleus,dementia,46,42,62247
+0ed60482-a34f-4268-b576-d69cc30210f6,brain,10x 3' v3,nucleus,dementia,44,39,52828
+146216e1-ec30-4fee-a1fb-25defe801e2d,brain,10x 3' v3,nucleus,dementia,47,42,52704
+6437bc9c-16cb-46c8-8f79-9a7384a0212a,brain,10x 3' v3,nucleus,dementia,44,39,44174
+b74100ea-1a1a-486a-9cad-70ae44150935,brain,10x multiome,nucleus,dementia,16,12,40892
+100c6145-7b0e-4ba6-81c1-ffebed0d1ac4,brain,10x 3' v3,nucleus,dementia,44,39,40625
+de104f7e-14fa-4795-bd19-b5ee2c1563e0,brain,10x 3' v3,nucleus,dementia,47,42,40269
+eec3e37d-ed41-4881-bc6e-aaf39a2c6eb0,brain,10x 3' v3,nucleus,dementia,47,42,38660
+c76098ba-eed3-45b1-98f2-96fcac55ed18,brain,10x 3' v3,nucleus,dementia,47,42,35889
+1c05b7ae-4dfb-4c1b-a441-4b23c04b169e,brain,10x 3' v3,nucleus,dementia,47,42,29176
+58c43cc2-e00e-43c4-94eb-8501369264e1,brain,10x 3' v3,nucleus,dementia,44,39,27670
+a4e89c26-e8d4-4471-9b06-16a1405880f0,brain,10x 3' v3,nucleus,dementia,44,39,27454
+646e3e87-e46b-4b12-85b5-8d8589e26088,brain,10x multiome,nucleus,dementia,13,8,24844
+b1d37bbd-9ae4-4404-b2f9-f2fe66750e4e,brain,10x 3' v3,nucleus,dementia,44,39,23640
+79d485a8-b8b1-49f2-85aa-c44e5206aa53,brain,10x 3' v3,nucleus,dementia,47,41,23537
+a190b2e9-3796-4785-9a2f-013e2a9a43e6,brain,10x 3' v3,nucleus,dementia,44,39,21603
+ac0fee7e-0999-4319-b244-20278e1ff2fb,brain,10x multiome,nucleus,dementia,16,11,20328
+5ae6ab72-1927-4d5b-9826-86be65791293,brain,10x 3' v3,nucleus,dementia,46,42,20181
+e8ac3386-31d4-48ba-aa70-1bae0cf020e7,brain,10x 3' v3,nucleus,dementia,47,40,19385
+75e6eee5-d0e3-4291-9360-f288ffe6c7c4,brain,10x 3' v3,nucleus,dementia,47,41,18567
+b8920ef5-7d22-497b-abca-a7a9eb76d79a,brain,10x 3' v3,nucleus,dementia,44,39,18154
+d0ea3ec4-0f3b-4649-9146-1c0b5f303a55,brain,10x 3' v3,nucleus,dementia,44,39,17996
+c19275f5-739e-4796-ad5d-b0830b760db1,brain,10x 3' v3,nucleus,dementia,47,41,16418
+0374f03c-62e2-4859-8a14-acb00b0627d5,brain,10x 3' v3,nucleus,dementia,44,39,14871
+605b89b1-c474-4180-8c0b-88afb5920991,brain,10x multiome,nucleus,dementia,16,11,14792
+8a8aedcb-5bb3-453d-a9f0-f37951ae1515,brain,10x 3' v3,nucleus,dementia,47,41,14786
+1c9f5c6b-73da-4d17-95de-df080ffe0df1,brain,10x 3' v3,nucleus,dementia,44,39,13007
+d2fc9880-e6d3-4922-af5c-61f4f517adfa,brain,10x multiome,nucleus,dementia,16,11,11825
+9940f951-3dc0-4579-bbb2-2392786e59a3,brain,10x multiome,nucleus,dementia,13,8,9919
+8c6ed88f-11bf-4159-bad7-ff41fb1e1eca,brain,10x 3' v3,nucleus,dementia,47,40,9893
+a0d173dd-bb10-4d13-8b9a-e13a4ee83c8c,brain,10x multiome,nucleus,dementia,16,12,9686
+0eccaf0c-19d2-4900-9962-899378adf8be,brain,10x 3' v3,nucleus,dementia,44,39,8984
+d87f3f91-dca4-494b-8993-c4e3008a8fa5,brain,10x multiome,nucleus,dementia,16,12,8925
+f67f2cfa-ba45-4f77-8e26-64a15f666043,brain,10x 3' v3,nucleus,dementia,47,42,8463
+5097d77d-08fa-4105-a18f-4072d61522a4,brain,10x multiome,nucleus,dementia,16,12,7762
+44c83972-e5d2-4858-ac58-2df9f4bf564b,brain,10x multiome,nucleus,dementia,13,8,6933
+04c94a7d-1133-42c9-bb48-c697bd302a8d,brain,10x multiome,nucleus,dementia,13,8,6524
+9ff9f9ba-016b-4cbb-8899-45dc20860b8b,brain,10x multiome,nucleus,dementia,13,8,5674
+146216e1-ec30-4fee-a1fb-25defe801e2d,brain,10x multiome,nucleus,dementia,16,12,5561
+53bc5729-6202-4351-bc99-1f36139e9dc4,brain,10x multiome,nucleus,dementia,13,8,5201
+de104f7e-14fa-4795-bd19-b5ee2c1563e0,brain,10x multiome,nucleus,dementia,16,10,4983
+2e5a9b5d-d31b-4e9f-a179-d5d70ba459fb,brain,10x 3' v3,nucleus,dementia,44,39,4619
+74d584f0-74fc-482e-b944-e76f29c1ab85,brain,10x multiome,nucleus,dementia,13,8,4508
+eec3e37d-ed41-4881-bc6e-aaf39a2c6eb0,brain,10x multiome,nucleus,dementia,16,12,4261
+03181d87-4769-41e7-8c39-d9a81835f0d2,brain,10x multiome,nucleus,dementia,13,8,4161
+c76098ba-eed3-45b1-98f2-96fcac55ed18,brain,10x multiome,nucleus,dementia,16,11,4111
+236baeda-5fdd-41bf-8e32-bae21ac7d435,brain,10x 3' v3,nucleus,dementia,45,42,3937
+6cda07c7-5d7a-41ba-9799-5bb73da25a60,brain,10x 3' v3,nucleus,dementia,44,38,3848
+1c05b7ae-4dfb-4c1b-a441-4b23c04b169e,brain,10x multiome,nucleus,dementia,16,11,3317
+6437bc9c-16cb-46c8-8f79-9a7384a0212a,brain,10x multiome,nucleus,dementia,13,8,3199
+0ed60482-a34f-4268-b576-d69cc30210f6,brain,10x multiome,nucleus,dementia,13,8,3140
+79d485a8-b8b1-49f2-85aa-c44e5206aa53,brain,10x multiome,nucleus,dementia,16,11,2592
+2ecc72f8-085f-4e86-8692-771f316c54f6,brain,10x 3' v3,nucleus,dementia,44,39,2496
+07428d73-fdea-4bd4-a801-94b00c4d961c,brain,10x 3' v3,nucleus,dementia,47,40,2361
+75e6eee5-d0e3-4291-9360-f288ffe6c7c4,brain,10x multiome,nucleus,dementia,16,10,2174
+e8ac3386-31d4-48ba-aa70-1bae0cf020e7,brain,10x multiome,nucleus,dementia,16,11,2058
+5ae6ab72-1927-4d5b-9826-86be65791293,brain,10x multiome,nucleus,dementia,16,11,1987
+c19275f5-739e-4796-ad5d-b0830b760db1,brain,10x multiome,nucleus,dementia,16,10,1984
+3e87b1fa-472a-401c-8fa8-f31c10437d5f,brain,10x 3' v3,nucleus,dementia,47,42,1973
+a4e89c26-e8d4-4471-9b06-16a1405880f0,brain,10x multiome,nucleus,dementia,13,8,1889
+100c6145-7b0e-4ba6-81c1-ffebed0d1ac4,brain,10x multiome,nucleus,dementia,13,8,1861
+fc0ceb80-d2d9-47c1-9d78-b0e45c64c500,brain,10x 3' v3,nucleus,dementia,44,35,1772
+8a8aedcb-5bb3-453d-a9f0-f37951ae1515,brain,10x multiome,nucleus,dementia,16,9,1441
+58c43cc2-e00e-43c4-94eb-8501369264e1,brain,10x multiome,nucleus,dementia,13,8,1371
+81e91ff8-f619-4ad1-a0c3-b45e1dc63f68,brain,10x 3' v3,nucleus,dementia,46,37,1310
+a190b2e9-3796-4785-9a2f-013e2a9a43e6,brain,10x multiome,nucleus,dementia,13,8,1288
+b1d37bbd-9ae4-4404-b2f9-f2fe66750e4e,brain,10x multiome,nucleus,dementia,13,8,1152
+b8920ef5-7d22-497b-abca-a7a9eb76d79a,brain,10x multiome,nucleus,dementia,13,8,1037
+8c6ed88f-11bf-4159-bad7-ff41fb1e1eca,brain,10x multiome,nucleus,dementia,16,12,1035
+d0ea3ec4-0f3b-4649-9146-1c0b5f303a55,brain,10x multiome,nucleus,dementia,13,8,907
+1c9f5c6b-73da-4d17-95de-df080ffe0df1,brain,10x multiome,nucleus,dementia,13,8,902
+f67f2cfa-ba45-4f77-8e26-64a15f666043,brain,10x multiome,nucleus,dementia,16,10,740
+0374f03c-62e2-4859-8a14-acb00b0627d5,brain,10x multiome,nucleus,dementia,13,8,541
+0eccaf0c-19d2-4900-9962-899378adf8be,brain,10x multiome,nucleus,dementia,13,8,462
+236baeda-5fdd-41bf-8e32-bae21ac7d435,brain,10x multiome,nucleus,dementia,15,10,391
+6cda07c7-5d7a-41ba-9799-5bb73da25a60,brain,10x multiome,nucleus,dementia,13,8,249
+2e5a9b5d-d31b-4e9f-a179-d5d70ba459fb,brain,10x multiome,nucleus,dementia,13,8,241
+07428d73-fdea-4bd4-a801-94b00c4d961c,brain,10x multiome,nucleus,dementia,16,8,229
+81e91ff8-f619-4ad1-a0c3-b45e1dc63f68,brain,10x multiome,nucleus,dementia,14,10,186
+fc0ceb80-d2d9-47c1-9d78-b0e45c64c500,brain,10x multiome,nucleus,dementia,11,7,105
+3e87b1fa-472a-401c-8fa8-f31c10437d5f,brain,10x multiome,nucleus,dementia,13,10,96
+2ecc72f8-085f-4e86-8692-771f316c54f6,brain,10x multiome,nucleus,dementia,12,7,79
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Alzheimer disease,261,326,2360421
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || Alzheimer disease,26,41,296769
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Alzheimer disease || Lewy body dementia,261,70,1342797
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || Alzheimer disease || Parkinson disease,26,5,149253
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || Alzheimer disease || diabetes mellitus,26,12,171952
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Alzheimer disease || frontotemporal dementia,261,4,1062514
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Alzheimer disease || schizophrenia,261,9,1094367
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Lewy body dementia,261,23,1142182
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || Parkinson disease,261,19,1120676
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || Parkinson disease,26,3,128850
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || frontotemporal dementia,261,9,1074925
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || head injury,261,3,1063259
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || schizophrenia,261,65,1297321
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || schizophrenia || Parkinson disease,261,4,1056479
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || tauopathy,261,14,1112308
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || tauopathy,26,3,133271
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || vascular dementia,261,8,1082284
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || vascular dementia || Alzheimer disease,261,30,1158878
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,dementia || vascular dementia || Alzheimer disease,26,7,152949
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,dementia || vascular dementia || schizophrenia,261,3,1061962
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,diabetes mellitus,26,18,196875
+65badd7a-9262-4fd1-9ce2-eb5dc0ca8039,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,683190
+f7995301-7551-4e1d-8396-ffe3c9497ace,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,242927
+1252c5fb-945f-42d6-b1a8-8a3bd864384b,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,136289
+ed2b673b-0279-454a-998c-3eec361edf54,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,100379
+1062c0f2-2a44-4cf9-a7c8-b5ed58b4728d,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,94076
+9434b020-de42-43eb-bcc4-542b2be69015,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,45967
+0fdb6122-4600-40f0-a703-2da47cc7080d,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,12844
+83b5e943-a1d5-4164-b3f2-f7a37f01b524,heart,10x 3' v3,nucleus,dilated cardiomyopathy,12,52,6161
+bdf69f8d-5a96-4d6f-a9f5-9ee0e33597b7,heart,10x 3' v3,nucleus,dilated cardiomyopathy,10,42,1582
+99950e99-2758-41d2-b2c9-643edcdf6d82,lymph node,10x 5' v1,cell,follicular lymphoma,3,20,137147
+3b8b5de4-3aa1-4ac6-8890-8d03c8219981,brain,10x 3' v3,nucleus,frontotemporal dementia,7,9,113106
+e6361237-ac4e-4c5d-ad8f-f16aca0c0a8f,brain,10x 3' v3,nucleus,frontotemporal dementia,5,9,66719
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,stomach,10x 3' v2,cell,gastric cancer,35,28,216420
+e6aaf5a4-16e9-4ea6-9733-4eafd4e473d3,stomach,10x 3' v2,cell,gastric cancer,35,28,216420
+7bb64315-9e5a-41b9-9235-59acf9642a3e,stomach,10x 5' v1,cell,gastric cancer,10,26,147240
+1d54fb17-90d5-47ca-ad8d-22ab63cb5c1f,stomach,10x 3' v2,cell,gastric cancer,35,28,82610
+0d3807bf-97f0-4ec5-9611-15ada507f0df,stomach,10x 3' v2,cell,gastric cancer,35,28,66961
+dc6b1e06-3880-43f6-8de8-ef9cb5e7ef5e,stomach,10x 3' v2,cell,gastric cancer,34,28,37983
+40a0ade8-6067-4e22-9224-4d3c5e9bfc0d,stomach,10x 3' v2,cell,gastric cancer,34,28,10809
+9c235282-2b6f-4f74-8f16-7d3ac1b51371,stomach,10x 3' v2,cell,gastric cancer,34,28,10804
+ef7bb7f0-234d-459f-b613-b37cc7a4c70f,stomach,10x 3' v2,cell,gastric cancer,33,27,7623
+278eac3f-a5a4-4d0a-9d83-0ca7efc67e16,stomach,10x 3' v2,cell,gastric cancer,30,26,3899
+7be23e52-e357-45d6-861f-31166913104e,stomach,10x 3' v2,cell,gastric cancer,5,8,430
+7bb64315-9e5a-41b9-9235-59acf9642a3e,stomach,10x 3' v2,cell,gastric intestinal metaplasia,18,4,37667
+e5233a94-9e43-418c-8209-6f1400c31530,stomach,10x 3' v2,cell,gastric intestinal metaplasia,18,4,37667
+773b9b2e-70c8-40be-8cbb-e7b5abab360d,stomach,10x 3' v2,cell,gastric intestinal metaplasia,18,4,18998
+7bb64315-9e5a-41b9-9235-59acf9642a3e,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,18416
+e5233a94-9e43-418c-8209-6f1400c31530,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,18416
+773b9b2e-70c8-40be-8cbb-e7b5abab360d,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,12381
+63bb6359-3945-4658-92eb-3072419953e4,stomach,10x 3' v2,cell,gastric intestinal metaplasia,18,4,7953
+03d5794d-cde9-4769-a1a9-b3899d2b1d87,stomach,10x 3' v2,cell,gastric intestinal metaplasia,18,4,4169
+63bb6359-3945-4658-92eb-3072419953e4,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,3043
+9b188f26-c8e1-4a78-af15-622a35a371fc,stomach,10x 3' v2,cell,gastric intestinal metaplasia,16,4,3016
+faed4f71-6b50-4fc7-bd1c-8f385dccfdce,stomach,10x 3' v2,cell,gastric intestinal metaplasia,14,4,2079
+03d5794d-cde9-4769-a1a9-b3899d2b1d87,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,2078
+94423ec1-21f8-40e8-b5c9-c3ea82350ca4,stomach,10x 3' v2,cell,gastric intestinal metaplasia,14,4,1262
+94423ec1-21f8-40e8-b5c9-c3ea82350ca4,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,5,515
+9b188f26-c8e1-4a78-af15-622a35a371fc,stomach,10x 3' v3,cell,gastric intestinal metaplasia,5,4,57
+faed4f71-6b50-4fc7-bd1c-8f385dccfdce,stomach,10x 3' v3,cell,gastric intestinal metaplasia,4,3,45
+7bb64315-9e5a-41b9-9235-59acf9642a3e,stomach,10x 3' v2,cell,gastritis,18,5,47931
+e5233a94-9e43-418c-8209-6f1400c31530,stomach,10x 3' v2,cell,gastritis,18,5,47931
+773b9b2e-70c8-40be-8cbb-e7b5abab360d,stomach,10x 3' v2,cell,gastritis,18,5,28830
+63bb6359-3945-4658-92eb-3072419953e4,stomach,10x 3' v2,cell,gastritis,18,5,8383
+03d5794d-cde9-4769-a1a9-b3899d2b1d87,stomach,10x 3' v2,cell,gastritis,18,5,4212
+9b188f26-c8e1-4a78-af15-622a35a371fc,stomach,10x 3' v2,cell,gastritis,16,5,2998
+faed4f71-6b50-4fc7-bd1c-8f385dccfdce,stomach,10x 3' v2,cell,gastritis,14,5,2246
+94423ec1-21f8-40e8-b5c9-c3ea82350ca4,stomach,10x 3' v2,cell,gastritis,14,5,1072
+9fcb0b73-c734-40a5-be9c-ace7eea401c9,mucosa,10x 3' v3,cell,gingivitis,5,4,22827
+8f4f8502-9170-4ac2-9707-3b6985ebfe5f,heart,10x 3' v3,nucleus,heart failure,32,4,160214
+f1606894-59df-4794-a37f-baa7c6fb6de1,heart,10x 3' v3,nucleus,heart valve disorder,29,21,352682
+8f4f8502-9170-4ac2-9707-3b6985ebfe5f,heart,10x 3' v3,nucleus,heart valve disorder,32,9,196580
+d9f3a82c-24bb-4277-b715-8ec92a33dd32,blood,10x 3' v3,cell,hematologic disorder,90,13,372885
+4a5b00e0-1ba3-4fd4-af89-d3512eb20720,blood,10x 3' v3,cell,hematologic disorder,48,24,332557
+e40c6272-af77-4a10-9385-62a398884f27,colon,TruDrop,cell,hyperplastic polyp,19,6,27535
+6a270451-b4d9-43e0-aa89-e33aac1ac74b,colon,TruDrop,cell,hyperplastic polyp,36,7,3678
+f14bc322-1322-4184-8d16-409557525ea5,lung,10x 5' v2,cell,hypersensitivity pneumonitis,42,3,104558
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,colon,10x 5' v1,cell,inflammatory bowel disease,9,5,53166
+e6aaf5a4-16e9-4ea6-9733-4eafd4e473d3,colon,10x 5' v1,cell,inflammatory bowel disease,9,5,53166
+1d54fb17-90d5-47ca-ad8d-22ab63cb5c1f,colon,10x 5' v1,cell,inflammatory bowel disease,9,5,29240
+dc6b1e06-3880-43f6-8de8-ef9cb5e7ef5e,colon,10x 5' v1,cell,inflammatory bowel disease,9,5,19572
+763d1d88-b38d-4ab0-b00f-72df816b4b08,colon,10x 5' v1,cell,inflammatory bowel disease,8,5,2558
+40a0ade8-6067-4e22-9224-4d3c5e9bfc0d,colon,10x 5' v1,cell,inflammatory bowel disease,6,5,1260
+9c235282-2b6f-4f74-8f16-7d3ac1b51371,colon,10x 5' v1,cell,inflammatory bowel disease,6,5,1260
+ef7bb7f0-234d-459f-b613-b37cc7a4c70f,colon,10x 5' v1,cell,inflammatory bowel disease,7,5,501
+ebc2e1ff-c8f9-466a-acf4-9d291afaf8b3,blood,10x 5' v1,cell,influenza,10,12,111438
+de2c780c-1747-40bd-9ccf-9588ec186cee,blood,10x 3' v3,cell,influenza,4,5,28109
+a19d1667-a7b5-4556-9e5f-f9bfa690c0f1,skin of body,10x 3' v3,cell,injury,39,3,31817
+acd544d0-4d8b-46c7-98b3-fc48f7e6fdb7,musculature,10x 3' v3,nucleus,injury,3,3,12808
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v2,cell,interstitial lung disease,74,9,418919
+f14bc322-1322-4184-8d16-409557525ea5,lung,10x 5' v2,cell,interstitial lung disease,42,51,343215
+84cfa5aa-a0d1-415e-ac47-eb66c9cf8170,liver,10x 3' v3,cell,intestinal failure–associated liver disease,6,3,40797
+a199ca73-035d-44e2-9893-4c493151db21,blood,10x 3' v3,cell,juvenile dermatomyositis,5,15,105827
+a19d1667-a7b5-4556-9e5f-f9bfa690c0f1,skin of body,10x 3' v3,cell,keloid,39,4,27104
+3966ba97-beb8-4d0b-9954-d3775cd2cd61,placenta,10x 3' v3,cell,listeriosis,20,6,102922
+a19d1667-a7b5-4556-9e5f-f9bfa690c0f1,skin of body,10x 3' v2,cell,localized scleroderma,66,6,53883
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,10x 3' v2,cell,lung adenocarcinoma,41,68,603615
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v2,cell,lung adenocarcinoma,74,11,417276
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,10x 3' v2,cell,lung adenocarcinoma,41,65,409525
+576f193c-75d0-4a11-bd25-8676587e6dc2,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,48486
+f64e1be1-de15-4d27-8da4-82225cd4c035,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,38972
+486486d4-9462-43e5-9249-eb43fa5a49a6,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,22847
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,Smart-seq2,cell,lung adenocarcinoma,3,20,21772
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,Smart-seq2,cell,lung adenocarcinoma,3,20,21772
+e9175006-8978-4417-939f-819855eab80e,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,7913
+d224c8e0-c28e-4360-9e42-b3977cd83f9f,lung,10x 3' v2,cell,lung adenocarcinoma,3,13,5312
+a6858c10-c52a-4a1d-bc12-a90dbd51ca66,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,3186
+d4cfefa0-3a35-44eb-b848-d7a725b481e7,lung,10x 3' v2,cell,lung adenocarcinoma,4,13,3186
+b617ee1b-f8c8-4de9-b82b-e803ab93550d,lung,10x 3' v2,cell,lung cancer,8,5,109004
+b617ee1b-f8c8-4de9-b82b-e803ab93550d,lung,inDrop,cell,lung cancer,6,7,46496
+dc30c3ec-46d6-4cd8-8ec1-b544a3d0f503,brain,10x 3' v2,cell,multiple sclerosis,5,4,17799
+d9f3a82c-24bb-4277-b715-8ec92a33dd32,blood,10x 3' v3,cell,myelodysplastic syndrome,90,19,404804
+4a5b00e0-1ba3-4fd4-af89-d3512eb20720,blood,10x 3' v3,cell,myelodysplastic syndrome,48,26,376606
+d9f3a82c-24bb-4277-b715-8ec92a33dd32,blood,10x 3' v3,cell,myelodysplastic/myeloproliferative disease,90,10,403498
+4a5b00e0-1ba3-4fd4-af89-d3512eb20720,blood,10x 3' v3,cell,myelodysplastic/myeloproliferative disease,48,10,332006
+1c739a3e-c3f5-49d5-98e0-73975e751201,heart,10x 3' v3,nucleus,myocardial infarction,4,16,191795
+fe7aae33-6f7c-41a5-8d29-9996a9ddf1ab,heart,10x 3' v3,nucleus,myocarditis,12,24,162002
+064fa88b-78dc-4edd-b9cd-bcc16964c81e,heart,10x 3' v3,nucleus,myocarditis,12,24,67908
+de916989-3523-4eed-a8e6-6999540f27d4,heart,10x 3' v3,nucleus,myocarditis,12,24,49154
+af33f944-ab2f-4b80-a17e-49c13e03b01d,heart,10x 3' v3,nucleus,myocarditis,12,24,17945
+a49167b8-fe43-4b8f-ac37-d9c2af16f116,heart,10x 3' v3,nucleus,myocarditis,12,24,9060
+02474d5c-7faa-4567-80f8-56abc0a1df62,heart,10x 3' v3,nucleus,myocarditis,12,24,3919
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,10x 3' v2,cell,non-small cell lung carcinoma,41,7,208237
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,10x 3' v2,cell,non-small cell lung carcinoma,41,7,208237
+f14bc322-1322-4184-8d16-409557525ea5,lung,10x 5' v2,cell,non-specific interstitial pneumonia,42,4,116198
+5af90777-6760-4003-9dba-8f945fec6fdf,kidney,10x 5' transcription profiling,cell,nonpapillary renal cell carcinoma,9,10,180289
+867757c1-3b1a-49d9-a0cd-17767eb160cc,kidney,10x multiome,nucleus,obstructive nephropathy,7,5,46957
+30c2a6fd-d547-460f-a5e7-44c62a2af7ad,blood,10x 5' v2,cell,open-angle glaucoma,3,5,207952
+c893ddc3-f25b-45e2-8c9e-155918b4261c,brain,10x 3' v3,nucleus,opiate dependence,6,6,98848
+b6b5ea88-e092-46e4-b9c5-e93b52d5c195,digestive system,10x 3' v3,cell,oropharynx squamous cell carcinoma,7,10,82844
+9fcb0b73-c734-40a5-be9c-ace7eea401c9,mucosa,10x 3' v3,cell,periodontitis,5,9,52196
+e22482ee-19e8-40bc-9f6e-541dc3c82c20,bone marrow,MARS-seq,cell,plasma cell myeloma,11,55,54753
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 5' v1,cell,pneumonia,56,13,273973
+2a498ace-872a-4935-984b-1afa70fd9886,blood,10x 5' v1,cell,post-COVID-19 disorder,35,20,270908
+e51bae9a-c747-4b64-904a-4da7cda218ab,pancreas,10x 3' v3,cell,prediabetes syndrome,13,13,145299
+6d452161-70af-43dd-988c-e3c4050d31e8,pancreas,10x 3' v3,cell,prediabetes syndrome,13,13,66895
+a19438aa-ef9a-4e9b-abb6-5a1357123bb8,pancreas,10x 3' v3,cell,prediabetes syndrome,13,13,41731
+7e9bde96-b4d1-43d3-a5fe-dde6c4a6dc47,pancreas,10x 3' v3,cell,prediabetes syndrome,13,13,6802
+1873a18a-66fd-4a4d-8277-a872c93f5b59,liver,10x 3' v3,nucleus,primary sclerosing cholangitis,4,7,84026
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v3,nucleus,progressive supranuclear palsy,8,10,109621
+ac0c6561-7a48-4185-af6f-af799f699172,brain,10x 3' v2,nucleus,progressive supranuclear palsy,10,10,106655
+1e5bd3b8-6a0e-4959-8d69-cafed30fe814,lung,10x 3' v3,cell,pulmonary emphysema,3,3,35699
+4b6af54a-4a21-46e0-bc8d-673c0561a836,lung,10x 3' v3,cell,pulmonary emphysema,3,3,18386
+214bf9eb-93db-48c8-8e3c-9bb22fa3bc63,lung,10x 3' v3,cell,pulmonary emphysema,3,3,3662
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,10x 3' v2,cell,pulmonary fibrosis,74,40,548207
+9f222629-9e39-47d0-b83f-e08d610c7479,lung,Drop-seq,cell,pulmonary fibrosis,20,3,48051
+f14bc322-1322-4184-8d16-409557525ea5,lung,10x 5' v2,cell,pulmonary sarcoidosis,42,4,123609
+13b61a7d-5605-4948-ba48-02c588960143,digestive system,Seq-Well S3,cell,respiratory failure,15,6,12209
+01ad3cd7-3929-4654-84c0-6db05bd5fd59,blood,10x 5' transcription profiling,cell,respiratory system disorder,11,15,175531
+c7775e88-49bf-4ba2-a03b-93f00447c958,blood,10x 3' transcription profiling,cell,respiratory system disorder,29,5,120080
+d18736c3-6292-4379-919a-d6d973204c87,blood,10x 3' v3,cell,rheumatoid arthritis,18,18,108717
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,schizophrenia,261,42,1189156
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,schizophrenia,146,21,823704
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,schizophrenia || atherosclerosis,146,5,740414
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,schizophrenia || tardive dyskinesia,146,9,769394
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,schizophrenia || type 1 diabetes mellitus,146,4,749421
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,schizophrenia || type 2 diabetes mellitus,146,3,734929
+576f193c-75d0-4a11-bd25-8676587e6dc2,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,33640
+a6858c10-c52a-4a1d-bc12-a90dbd51ca66,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,19357
+f64e1be1-de15-4d27-8da4-82225cd4c035,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,13464
+486486d4-9462-43e5-9249-eb43fa5a49a6,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,6456
+e9175006-8978-4417-939f-819855eab80e,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,4307
+d4cfefa0-3a35-44eb-b848-d7a725b481e7,lung,10x 3' v2,cell,small cell lung carcinoma,4,4,912
+d224c8e0-c28e-4360-9e42-b3977cd83f9f,lung,10x 3' v2,cell,small cell lung carcinoma,3,4,372
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,10x 3' v2,cell,squamous cell lung carcinoma,41,10,243530
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,10x 3' v2,cell,squamous cell lung carcinoma,41,10,183714
+1e6a6ef9-7ec9-4c90-bbfb-2ad3c3165fd1,lung,Smart-seq2,cell,squamous cell lung carcinoma,3,3,10187
+232f6a5a-a04c-4758-a6e8-88ab2e3a6e69,lung,Smart-seq2,cell,squamous cell lung carcinoma,3,3,10187
+218acb0f-9f2f-4f76-b90b-15a4b7c7f629,blood,10x 3' v2,cell,systemic lupus erythematosus,99,162,1263676
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,tauopathy,261,20,1127213
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,tauopathy,26,9,168463
+3966ba97-beb8-4d0b-9954-d3775cd2cd61,placenta,10x 3' v3,cell,toxoplasmosis,20,8,102783
+e40c6272-af77-4a10-9385-62a398884f27,colon,TruDrop,cell,tubular adenoma,19,11,40335
+d6dfdef1-406d-4efb-808c-3c5eddbfe0cb,colon,TruDrop,cell,tubular adenoma,17,9,37643
+6a270451-b4d9-43e0-aa89-e33aac1ac74b,colon,TruDrop,cell,tubular adenoma,36,20,4675
+6a270451-b4d9-43e0-aa89-e33aac1ac74b,colon,TruDrop,cell,tubulovillous adenoma,36,3,3410
+4442d412-91cb-4261-acca-8adf5fa04c11,brain,10x 3' v3,nucleus,type 1 diabetes mellitus,259,5,1180216
+5c97eeeb-7e52-44b3-b010-b832b1f5424c,brain,10x 3' v3,nucleus,type 1 diabetes mellitus,146,5,747184
+37b21763-7f0f-41ae-9001-60bad6e2841d,pancreas,10x 3' v2,cell,type 1 diabetes mellitus,9,5,42864
+e51bae9a-c747-4b64-904a-4da7cda218ab,pancreas,10x 3' v3,cell,type 2 diabetes mellitus,13,10,118351
+6d452161-70af-43dd-988c-e3c4050d31e8,pancreas,10x 3' v3,cell,type 2 diabetes mellitus,13,10,49272
+e51bae9a-c747-4b64-904a-4da7cda218ab,pancreas,10x 3' v2,cell,type 2 diabetes mellitus,4,7,47952
+a19438aa-ef9a-4e9b-abb6-5a1357123bb8,pancreas,10x 3' v3,cell,type 2 diabetes mellitus,13,10,38591
+e067e5ca-e53e-485f-aa8e-efd5435229c8,kidney,10x 5' v1,nucleus,type 2 diabetes mellitus,5,5,30470
+a19438aa-ef9a-4e9b-abb6-5a1357123bb8,pancreas,10x 3' v2,cell,type 2 diabetes mellitus,4,7,14423
+6d452161-70af-43dd-988c-e3c4050d31e8,pancreas,10x 3' v2,cell,type 2 diabetes mellitus,4,7,14078
+7e9bde96-b4d1-43d3-a5fe-dde6c4a6dc47,pancreas,10x 3' v3,cell,type 2 diabetes mellitus,13,10,6021
+7e9bde96-b4d1-43d3-a5fe-dde6c4a6dc47,pancreas,10x 3' v2,cell,type 2 diabetes mellitus,4,7,1705
+19053a82-9c89-4fb8-bd19-d7b1800b0b7b,colon,10x 3' v2,cell,ulcerative colitis,52,8,220013
+e6aaf5a4-16e9-4ea6-9733-4eafd4e473d3,colon,10x 3' v2,cell,ulcerative colitis,42,8,187402
+dc6b1e06-3880-43f6-8de8-ef9cb5e7ef5e,colon,10x 3' v2,cell,ulcerative colitis,35,8,44170
+1d54fb17-90d5-47ca-ad8d-22ab63cb5c1f,colon,10x 3' v2,cell,ulcerative colitis,29,7,35018
+763d1d88-b38d-4ab0-b00f-72df816b4b08,colon,10x 3' v2,cell,ulcerative colitis,25,8,33587
+ef7bb7f0-234d-459f-b613-b37cc7a4c70f,colon,10x 3' v2,cell,ulcerative colitis,24,6,18137
+40a0ade8-6067-4e22-9224-4d3c5e9bfc0d,colon,10x 3' v2,cell,ulcerative colitis,37,8,5427
+9c235282-2b6f-4f74-8f16-7d3ac1b51371,colon,10x 3' v2,cell,ulcerative colitis,37,8,5408
+7be23e52-e357-45d6-861f-31166913104e,colon,10x 3' v2,cell,ulcerative colitis,30,4,5061
+278eac3f-a5a4-4d0a-9d83-0ca7efc67e16,colon,10x 3' v2,cell,ulcerative colitis,33,5,4505
+37a17b78-4864-4a42-b67b-31c00962795a,brain,10x 3' v3,nucleus,vascular dementia,261,19,1124872
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,vascular dementia,26,3,128954
+5e57cd50-8e42-42d6-940d-5c1660d06864,brain,10x 3' v3,nucleus,vascular dementia || diabetes mellitus,26,4,147678

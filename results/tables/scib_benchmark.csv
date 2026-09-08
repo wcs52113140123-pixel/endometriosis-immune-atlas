@@ -1,0 +1,4 @@
+Embedding,Isolated labels,KMeans NMI,KMeans ARI,Silhouette label,cLISI,BRAS,iLISI,KBET,Graph connectivity,PCR comparison,Batch correction,Bio conservation,Total
+Unintegrated,0.6082729,0.6235519947318876,0.5611306972725524,0.5637624,1.0,0.4593882,0.014301788,0.28952619003581226,0.8259154527172915,0.28794987587418625,0.37541629839632595,0.6713436126708985,0.5529726869610695
+Harmony,0.6877082,0.71474078030841,0.6642123793111067,0.6450916,1.0,0.80934995,0.05569791,0.4690766201168369,0.9044729111618277,0.708906310921591,0.5895007428533506,0.7423505783081055,0.6812106441262036
+Metric Type,Bio conservation,Bio conservation,Bio conservation,Bio conservation,Bio conservation,Batch correction,Batch correction,Batch correction,Batch correction,Batch correction,Aggregate score,Aggregate score,Aggregate score

@@ -1,0 +1,14 @@
+# Python 3.11 (conda env "endo"). Core single-cell stack used in scripts/.
+scanpy
+anndata
+harmonypy
+infercnvpy
+scikit-misc
+scikit-learn
+python-igraph
+leidenalg
+pandas
+numpy
+scipy
+matplotlib
+# Optional for full study (P5-P8): pyscenic, milopy, mebocost, squidpy (Python); CellChat, BioTIP, TCGAbiolinks, survival (R)
