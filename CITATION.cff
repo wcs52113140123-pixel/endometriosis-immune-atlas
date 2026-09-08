@@ -5,8 +5,6 @@ type: software
 authors:
   - family-names: Wang
     given-names: Xi
-  - family-names: Zou
-    given-names: Xiaofeng
   - family-names: Liang
     given-names: Kang
   - family-names: Yang
@@ -15,12 +13,6 @@ authors:
     given-names: Bing
   - family-names: Liao
     given-names: Juan
-  - family-names: Wang
-    given-names: Mingyang
-  - family-names: Xu
-    given-names: Ke
-  - family-names: Lin
-    given-names: Zhenjiang
   - family-names: Wang
     given-names: Zhiliang
     affiliation: "Department of Obstetrics and Gynecology, Affiliated Hospital of Zunyi Medical University, Zunyi, Guizhou, China"
@@ -35,4 +27,4 @@ preferred-citation:
     - family-names: Wang
       given-names: Zhiliang
   year: 2026
-  journal: "[journal — to be completed on acceptance]"
+  journal: "[journal - to be completed on acceptance]"

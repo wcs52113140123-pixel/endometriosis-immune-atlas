@@ -5,7 +5,7 @@
 对八个公开的子宫内膜异位症单细胞、空间与 bulk 数据集所做的病人层面再分析的代码与派生结果，
 并包含对同一统计问题的跨疾病校准研究。
 
-作者：X. Wang, X. Zou, K. Liang, D. Yang, B. Xiong, J. Liao, M. Wang, K. Xu, Z. Lin, Z. Wang —
+作者：X. Wang, K. Liang, D. Yang, B. Xiong, J. Liao, Z. Wang —
 遵义医科大学附属医院妇产科，贵州遵义。
 
 ---

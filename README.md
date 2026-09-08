@@ -6,7 +6,7 @@ Analysis code and derived results for a patient-level re-analysis of eight publi
 spatial and bulk datasets of endometriosis, together with a cross-disease calibration study of the
 same statistical question.
 
-Authors: X. Wang, X. Zou, K. Liang, D. Yang, B. Xiong, J. Liao, M. Wang, K. Xu, Z. Lin, Z. Wang —
+Authors: X. Wang, K. Liang, D. Yang, B. Xiong, J. Liao, Z. Wang —
 Department of Obstetrics and Gynecology, Affiliated Hospital of Zunyi Medical University, Zunyi,
 Guizhou, China.
 
